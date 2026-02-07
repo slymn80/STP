@@ -2,6 +2,7 @@
 const weekSelect = document.getElementById("weekSelect");
 const metaDiv = document.getElementById("meta");
 const contentDiv = document.getElementById("content");
+const downloadBtn = document.getElementById("downloadPdf");
 
 function padWeek(week) {
   return String(week).padStart(2, "0");
@@ -109,6 +110,63 @@ async function loadLesson() {
   }
 }
 
+async function downloadPdf() {
+  const grade = gradeSelect.value;
+  const week = padWeek(weekSelect.value);
+  const title = `grade${grade}-week${week}.pdf`;
+
+  const container = document.createElement("div");
+  container.style.width = "900px";
+  container.style.padding = "20px";
+  container.style.background = "#ffffff";
+  container.style.color = "#000000";
+  container.style.fontFamily = getComputedStyle(document.body).fontFamily;
+
+  const metaClone = metaDiv.cloneNode(true);
+  const contentClone = contentDiv.cloneNode(true);
+  container.appendChild(metaClone);
+  container.appendChild(document.createElement("hr"));
+  container.appendChild(contentClone);
+
+  const imgs = Array.from(container.querySelectorAll("img"));
+  await Promise.all(
+    imgs.map(
+      (img) =>
+        new Promise((resolve) => {
+          if (img.complete) return resolve();
+          img.onload = resolve;
+          img.onerror = resolve;
+        })
+    )
+  );
+
+  const canvas = await html2canvas(container, { scale: 2, useCORS: true });
+  const imgData = canvas.toDataURL("image/png");
+  const { jsPDF } = window.jspdf;
+  const pdf = new jsPDF("p", "pt", "a4");
+
+  const pageWidth = pdf.internal.pageSize.getWidth();
+  const pageHeight = pdf.internal.pageSize.getHeight();
+  const ratio = Math.min(pageWidth / canvas.width, pageHeight / canvas.height);
+  const imgWidth = canvas.width * ratio;
+  const imgHeight = canvas.height * ratio;
+
+  if (imgHeight <= pageHeight) {
+    pdf.addImage(imgData, "PNG", 0, 0, imgWidth, imgHeight);
+  } else {
+    let remaining = imgHeight;
+    let position = 0;
+    while (remaining > 0) {
+      pdf.addImage(imgData, "PNG", 0, position, imgWidth, imgHeight);
+      remaining -= pageHeight;
+      position -= pageHeight;
+      if (remaining > 0) pdf.addPage();
+    }
+  }
+
+  pdf.save(title);
+}
+
 populateWeeks();
 const route = parseRoute();
 if (route) {
@@ -129,6 +187,15 @@ gradeSelect.addEventListener("change", () => {
 weekSelect.addEventListener("change", () => {
   updateUrl(gradeSelect.value, weekSelect.value);
   loadLesson();
+});
+
+downloadBtn.addEventListener("click", () => {
+  downloadBtn.disabled = true;
+  downloadBtn.textContent = "Preparing PDF...";
+  downloadPdf().finally(() => {
+    downloadBtn.disabled = false;
+    downloadBtn.textContent = "Download PDF";
+  });
 });
 
 window.addEventListener("popstate", () => {

@@ -64,6 +64,21 @@ select {
   font-family: inherit;
 }
 
+#downloadPdf {
+  align-self: flex-end;
+  padding: 10px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: #fff1de;
+  color: var(--accent-dark);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+#downloadPdf:hover {
+  background: #ffe3c3;
+}
+
 .container {
   max-width: 1000px;
   margin: 24px auto 40px;
