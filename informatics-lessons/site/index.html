@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Informatics Lessons</title>
+  <link rel="icon" href="favicon.ico" />
+  <link rel="apple-touch-icon" href="favicon.png" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <h1>Informatics Lessons</h1>
+      <p>Browse weekly lessons by grade and week.</p>
+      <div class="controls">
+        <label>
+          Grade
+          <select id="gradeSelect">
+            <option value="5">Grade 5</option>
+            <option value="10">Grade 10</option>
+          </select>
+        </label>
+        <label>
+          Week
+          <select id="weekSelect"></select>
+        </label>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="meta-card">
+      <h2>Lesson Metadata</h2>
+      <div id="meta"></div>
+    </section>
+    <section class="content-card">
+      <div id="content">Loading lesson...</div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Talgar Private Boarding School No. 1 · Informatics</p>
+  </footer>
+
+  <script src="vendor/marked.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

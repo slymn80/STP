@@ -1,0 +1,139 @@
+﻿:root {
+  --bg: #f4f0ea;
+  --ink: #1c1a17;
+  --accent: #1f6b5e;
+  --accent-dark: #124237;
+  --card: #fffaf3;
+  --line: #d7c8b3;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+  color: var(--ink);
+  background: radial-gradient(circle at 20% 0%, #fff6e7 0%, var(--bg) 55%, #efe5d6 100%);
+}
+
+.hero {
+  background: linear-gradient(120deg, var(--accent) 0%, #2b8a74 45%, #15483d 100%);
+  color: #fdf8f1;
+  padding: 36px 20px 28px;
+  border-bottom: 6px solid var(--accent-dark);
+}
+
+.hero-inner {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.hero h1 {
+  margin: 0 0 6px 0;
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  letter-spacing: 0.5px;
+}
+
+.hero p {
+  margin: 0 0 16px 0;
+  font-size: 1rem;
+  opacity: 0.9;
+}
+
+.controls {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.controls label {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.9rem;
+  gap: 6px;
+  min-width: 180px;
+}
+
+select {
+  padding: 8px 10px;
+  border-radius: 6px;
+  border: 1px solid var(--line);
+  min-width: 160px;
+  font-family: inherit;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 24px auto 40px;
+  padding: 0 20px;
+  display: grid;
+  gap: 20px;
+}
+
+.meta-card,
+.content-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 18px 20px;
+  box-shadow: 0 6px 12px rgba(30, 20, 10, 0.08);
+}
+
+.meta-card h2 {
+  margin-top: 0;
+  font-size: 1.2rem;
+}
+
+.meta-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 10px 18px;
+  font-size: 0.95rem;
+}
+
+.meta-item {
+  padding: 8px 10px;
+  background: #fff1de;
+  border-radius: 6px;
+  border: 1px solid #e5d2b8;
+  word-break: break-word;
+}
+
+.meta-item span {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 4px;
+}
+
+#content h1,
+#content h2,
+#content h3 {
+  color: var(--accent-dark);
+}
+
+#content img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  margin: 10px 0;
+  background: #fff;
+}
+
+.footer {
+  padding: 16px 20px 30px;
+  text-align: center;
+  color: #5c5143;
+}
+
+@media (max-width: 700px) {
+  .hero {
+    padding: 28px 16px 22px;
+  }
+
+  .container {
+    padding: 0 14px;
+  }
+}
