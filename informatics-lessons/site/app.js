@@ -61,6 +61,30 @@ function renderMeta(meta) {
   metaDiv.innerHTML = `<div class="meta-grid">${items}</div>`;
 }
 
+function parseRoute() {
+  const params = new URLSearchParams(window.location.search);
+  const qGrade = params.get("grade");
+  const qWeek = params.get("week");
+  if (qGrade && qWeek) {
+    return { grade: qGrade, week: qWeek };
+  }
+  const path = window.location.pathname.replace(/\/+$/, "");
+  const match = path.match(/\/(5|10)\/(\d{1,2})$/);
+  if (match) {
+    return { grade: match[1], week: match[2] };
+  }
+  return null;
+}
+
+function updateUrl(grade, week, push = true) {
+  const path = `/${grade}/${Number(week)}`;
+  if (push) {
+    history.pushState({}, "", path);
+  } else {
+    history.replaceState({}, "", path);
+  }
+}
+
 async function loadLesson() {
   const grade = gradeSelect.value;
   const week = padWeek(weekSelect.value);
@@ -86,12 +110,32 @@ async function loadLesson() {
 }
 
 populateWeeks();
-weekSelect.value = 1;
+const route = parseRoute();
+if (route) {
+  gradeSelect.value = route.grade;
+  weekSelect.value = route.week;
+} else {
+  weekSelect.value = 1;
+}
+updateUrl(gradeSelect.value, weekSelect.value, false);
 loadLesson();
 
 gradeSelect.addEventListener("change", () => {
   weekSelect.value = 1;
+  updateUrl(gradeSelect.value, weekSelect.value);
   loadLesson();
 });
 
-weekSelect.addEventListener("change", loadLesson);
+weekSelect.addEventListener("change", () => {
+  updateUrl(gradeSelect.value, weekSelect.value);
+  loadLesson();
+});
+
+window.addEventListener("popstate", () => {
+  const r = parseRoute();
+  if (r) {
+    gradeSelect.value = r.grade;
+    weekSelect.value = r.week;
+    loadLesson();
+  }
+});
