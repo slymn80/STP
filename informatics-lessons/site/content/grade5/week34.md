@@ -61,7 +61,7 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-![Lesson Visual](../images/grade5/week34.png)
+![Lesson Visual](content/images/grade5/week34.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Implementation of mini-projects' and 'not related'.

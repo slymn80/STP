@@ -58,7 +58,7 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-![Lesson Visual](../images/grade5/week32.png)
+![Lesson Visual](content/images/grade5/week32.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Creating shared folders and files' and 'not related'.

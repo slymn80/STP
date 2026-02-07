@@ -58,7 +58,7 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-![Lesson Visual](../images/grade5/week23.png)
+![Lesson Visual](content/images/grade5/week23.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to The movement of the robot along the line. Practical work' and 'not related'.

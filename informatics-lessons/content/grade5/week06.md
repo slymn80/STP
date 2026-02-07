@@ -58,7 +58,7 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-![Lesson Visual](../images/grade5/week06.png)
+![Lesson Visual](content/images/grade5/week06.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Representation of graphical information in binary code of EXAM No. 1.' and 'not related'.

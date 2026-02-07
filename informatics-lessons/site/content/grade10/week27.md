@@ -62,7 +62,7 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-![Lesson Visual](../images/grade10/week27.png)
+![Lesson Visual](content/images/grade10/week27.png)
 
 ## Practice Activity
 - Short response: Describe a scenario where Web Programming is important.

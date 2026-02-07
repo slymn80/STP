@@ -58,7 +58,7 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-![Lesson Visual](../images/grade5/week09.png)
+![Lesson Visual](content/images/grade5/week09.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Computer graphics, Raster and vector graphic editors' and 'not related'.
