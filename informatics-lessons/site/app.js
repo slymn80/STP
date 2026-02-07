@@ -88,7 +88,7 @@ function updateUrl(grade, week, push = true) {
 async function loadLesson() {
   const grade = gradeSelect.value;
   const week = padWeek(weekSelect.value);
-  const url = `content/grade${grade}/week${week}.md`;
+  const url = `/content/grade${grade}/week${week}.md`;
   contentDiv.innerHTML = "Loading lesson...";
   try {
     const res = await fetch(url);
