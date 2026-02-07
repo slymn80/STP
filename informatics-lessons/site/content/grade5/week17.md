@@ -59,7 +59,7 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-![Lesson Visual](content/images/grade5/week17.png)
+![Lesson Visual](/content/images/grade5/week17.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Robotics, Types of robots and their applications' and 'not related'.

@@ -60,7 +60,7 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-![Lesson Visual](content/images/grade10/week10.png)
+![Lesson Visual](/content/images/grade10/week10.png)
 
 ## Practice Activity
 - Short response: Describe a scenario where Programming is important.

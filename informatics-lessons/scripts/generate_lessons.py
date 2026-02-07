@@ -358,7 +358,7 @@ def write_markdown(lesson: Lesson):
     grade_dir.mkdir(parents=True, exist_ok=True)
     filename = grade_dir / f"week{lesson.week:02d}.md"
 
-    image_path = f"content/images/grade{lesson.grade}/week{lesson.week:02d}.png"
+    image_path = f"/content/images/grade{lesson.grade}/week{lesson.week:02d}.png"
 
     lines = []
     lines.append(format_yaml_frontmatter(lesson))
