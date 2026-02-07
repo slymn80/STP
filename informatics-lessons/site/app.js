@@ -121,12 +121,17 @@ async function downloadPdf() {
   container.style.background = "#ffffff";
   container.style.color = "#000000";
   container.style.fontFamily = getComputedStyle(document.body).fontFamily;
+  container.style.position = "fixed";
+  container.style.left = "-10000px";
+  container.style.top = "0";
+  container.style.zIndex = "-1";
 
   const metaClone = metaDiv.cloneNode(true);
   const contentClone = contentDiv.cloneNode(true);
   container.appendChild(metaClone);
   container.appendChild(document.createElement("hr"));
   container.appendChild(contentClone);
+  document.body.appendChild(container);
 
   const imgs = Array.from(container.querySelectorAll("img"));
   await Promise.all(
@@ -140,7 +145,11 @@ async function downloadPdf() {
     )
   );
 
-  const canvas = await html2canvas(container, { scale: 2, useCORS: true });
+  const canvas = await html2canvas(container, {
+    scale: 2,
+    useCORS: true,
+    backgroundColor: "#ffffff",
+  });
   const imgData = canvas.toDataURL("image/png");
   const { jsPDF } = window.jspdf;
   const pdf = new jsPDF("p", "pt", "a4");
@@ -165,6 +174,7 @@ async function downloadPdf() {
   }
 
   pdf.save(title);
+  container.remove();
 }
 
 populateWeeks();
