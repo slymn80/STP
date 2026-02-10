@@ -58,6 +58,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Learn basic bitmap processing.
+- **Key ideas (8 min):** Crop, resize, and adjust brightness/contrast. Saving in common formats (PNG, JPG).
+- **Guided demo (6 min):** Crop a photo and change brightness.
+- **Hands-on practice (6 min):** Students crop and resize a sample image.
+- **Check for understanding (3 min):** Which tool changes size? Which tool removes extra parts?
+
 ![Lesson Visual](/content/images/grade5/week11.png)
 
 ## Practice Activity

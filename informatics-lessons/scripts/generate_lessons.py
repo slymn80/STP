@@ -16,7 +16,10 @@ from openai import OpenAI
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 CONTENT_DIR = PROJECT_ROOT / "content"
 SITE_DIR = PROJECT_ROOT / "site"
+DETAIL_STUDY_DIR = PROJECT_ROOT / "scripts" / "detailed_studies"
+EXAM_DIR = PROJECT_ROOT / "scripts" / "exams"
 BRIEFS = {}
+LESSONS_BY_GRADE = {}
 
 EXCEL_DEFAULT = r"C:\Users\Suleyman\Desktop\files\2025-2026 dersler\2025_2026_informatics_annual_plan_suleyman_tongut.xlsx"
 
@@ -292,6 +295,40 @@ def build_main_content(topic, explanation, grade):
     return points
 
 
+def build_detailed_topic_study(topic, explanation, grade):
+    points = extract_points(explanation, max_points=6)
+    terms = slug_terms(f"{topic} {explanation}", max_terms=6)
+    items = []
+    if explanation:
+        items.append(f"Detailed study of {topic} based on the annual plan explanation.")
+        for p in points:
+            items.append(f"{p}.")
+        if terms:
+            items.append(f"Key terms to emphasize: {', '.join(terms)}.")
+    else:
+        items.append(f"Detailed study of {topic} with definitions, components, and examples.")
+    if grade >= 10:
+        items.append("Apply the idea to a real-world system or troubleshooting scenario.")
+    items.append("Check for understanding: students summarize the main idea in 2-3 sentences.")
+    return items
+
+
+def load_detailed_study(lesson: Lesson):
+    path = DETAIL_STUDY_DIR / f"grade{lesson.grade}" / f"week{lesson.week:02d}.md"
+    if not path.exists():
+        return None
+    with open(path, "r", encoding="utf-8") as f:
+        return f.read().strip() + "\n"
+
+
+def load_exam_override(lesson: Lesson):
+    path = EXAM_DIR / f"grade{lesson.grade}" / f"week{lesson.week:02d}.md"
+    if not path.exists():
+        return None
+    with open(path, "r", encoding="utf-8") as f:
+        return f.read().strip() + "\n"
+
+
 def build_practice_activity(topic, explanation, grade):
     exp_points = extract_points(explanation, max_points=2)
     if grade >= 10:
@@ -339,6 +376,25 @@ def build_reflection(topic):
     ]
 
 
+def is_exam_week(lesson: Lesson) -> bool:
+    text = f"{lesson.topic} {lesson.explanation}".lower()
+    return re.search(r"\bexam\b|\bquiz\b", text) is not None
+
+
+def build_exam_questions(lesson: Lesson):
+    lessons = LESSONS_BY_GRADE.get(lesson.grade, [])
+    covered = [l for l in lessons if l.week <= lesson.week]
+    covered = sorted(covered, key=lambda x: x.week)
+    questions = []
+    for l in covered:
+        focus = extract_points(l.explanation, max_points=1)
+        if focus:
+            questions.append(f"{l.topic}: {focus[0]}.")
+        else:
+            questions.append(f"Explain the main idea of {l.topic} and give one example.")
+    return questions
+
+
 def format_yaml_frontmatter(lesson: Lesson):
     return (
         "---\n"
@@ -382,6 +438,13 @@ def write_markdown(lesson: Lesson):
     lines.append("\n## Main Content (25 minutes)\n")
     for p in build_main_content(lesson.topic, lesson.explanation, lesson.grade):
         lines.append(f"- {p}\n")
+    lines.append("\n### Detailed Topic Study\n")
+    custom = load_detailed_study(lesson)
+    if custom:
+        lines.append(custom)
+    else:
+        for p in build_detailed_topic_study(lesson.topic, lesson.explanation, lesson.grade):
+            lines.append(f"- {p}\n")
     lines.append("\n")
     lines.append(f"![Lesson Visual]({image_path})\n")
     lines.append("\n## Practice Activity\n")
@@ -396,6 +459,23 @@ def write_markdown(lesson: Lesson):
     lines.append("\n## Teacher Reflection\n")
     for p in build_reflection(lesson.topic):
         lines.append(f"- {p}\n")
+
+    if is_exam_week(lesson):
+        override = load_exam_override(lesson)
+        if override:
+            lines.append(override)
+        else:
+            questions = build_exam_questions(lesson)
+            lines.append(f"\n## Cumulative Exam (Weeks 1-{lesson.week})\n")
+            lines.append('<form class="exam" data-grade="')
+            lines.append(f'{lesson.grade}" data-week="{lesson.week}">\n')
+            lines.append("<p><strong>Instructions:</strong> Answer each question in 2-4 sentences.</p>\n")
+            lines.append("<ol>\n")
+            for i, q in enumerate(questions, start=1):
+                safe_q = q.replace("\n", " ").strip()
+                lines.append(f"<li><p>{safe_q}</p>")
+                lines.append(f"<textarea name=\"q{i}\" rows=\"3\"></textarea></li>\n")
+            lines.append("</ol>\n</form>\n")
 
     content = "".join(lines)
     with open(filename, "w", encoding="utf-8") as f:
@@ -636,7 +716,7 @@ def copy_content_to_site():
 
 
 def main():
-    global BRIEFS
+    global BRIEFS, LESSONS_BY_GRADE
     excel_path = os.environ.get("STP_EXCEL_PATH", EXCEL_DEFAULT)
     if not os.path.exists(excel_path):
         raise FileNotFoundError(f"Excel file not found: {excel_path}")
@@ -654,6 +734,11 @@ def main():
         raise ValueError(f"Expected 34 lessons for Grade 10, found {len(lessons_g10)}")
     if len(lessons_g5) != 34:
         raise ValueError(f"Expected 34 lessons for Grade 5, found {len(lessons_g5)}")
+
+    LESSONS_BY_GRADE = {
+        10: lessons_g10,
+        5: lessons_g5,
+    }
 
     briefs_path = PROJECT_ROOT / "scripts" / "visual_briefs.csv"
     write_default_briefs(lessons_g5 + lessons_g10, briefs_path)

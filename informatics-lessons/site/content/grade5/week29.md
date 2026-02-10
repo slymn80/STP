@@ -58,6 +58,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Understand internet dangers and copyright rules.
+- **Key ideas (8 min):** Copying someone else's work without permission is wrong. Always give credit and ask before using images or text.
+- **Guided demo (6 min):** Show correct vs incorrect use of an image with credit.
+- **Hands-on practice (6 min):** Students practice adding a source line to a project.
+- **Check for understanding (3 min):** What is plagiarism?
+
 ![Lesson Visual](/content/images/grade5/week29.png)
 
 ## Practice Activity

@@ -1,0 +1,5 @@
+- **Goal (2 min):** Apply the right graphic type for a task.
+- **Key ideas (8 min):** Choose raster for detailed photos and vector for scalable graphics.
+- **Guided demo (6 min):** Teacher shows examples and explains the choice.
+- **Hands-on practice (6 min):** Students decide formats for posters, icons, and photos.
+- **Check for understanding (3 min):** Explain one choice in a sentence.

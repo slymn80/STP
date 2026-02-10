@@ -1,0 +1,5 @@
+- **Goal (2 min):** Complete and present mini-projects.
+- **Key ideas (8 min):** Plan, create, and share safely. Use clear titles, good layout, and correct credits.
+- **Guided demo (6 min):** Review a simple project rubric (content, safety, presentation).
+- **Hands-on practice (6 min):** Students finalize their mini-project and prepare a short presentation.
+- **Check for understanding (3 min):** What makes a digital project safe and well-organized?

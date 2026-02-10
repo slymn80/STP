@@ -1,0 +1,5 @@
+- **Goal (2 min):** Review logic elements and encoding standards in a quiz format.
+- **Logic elements (8 min):** Define AND, OR, NOT, and XOR. Build truth tables and identify outputs for given inputs.
+- **Encoding standards (7 min):** Explain that character encoding maps characters to numbers (ASCII, Unicode). Show a short example of mapping letters to codes.
+- **Quiz practice (6 min):** Mixed questions: fill a truth table, identify a gate, decode a short ASCII value, convert binary to decimal.
+- **Check for understanding (2 min):** Exit ticket: one logic problem, one encoding problem.

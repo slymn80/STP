@@ -58,6 +58,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Explore the history and future of robotics.
+- **Key ideas (8 min):** Early industrial robots helped with dangerous tasks. Today robots help in many fields. Future uses include healthcare and exploration.
+- **Guided demo (6 min):** Timeline: early industrial robot to modern service robots.
+- **Hands-on practice (6 min):** Students draw a timeline with 3 robot examples.
+- **Check for understanding (3 min):** Name one past and one future use of robots.
+
 ![Lesson Visual](/content/images/grade5/week18.png)
 
 ## Practice Activity

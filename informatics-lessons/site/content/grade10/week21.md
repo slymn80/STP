@@ -59,6 +59,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Use advanced WHERE clause patterns.
+- **Pattern matching (8 min):** `LIKE` with `%` and `_` wildcards. Explain case sensitivity basics.
+- **Set membership (7 min):** `IN (...)` and `NOT IN (...)` for compact filters.
+- **Guided practice (6 min):** Students write queries using LIKE and IN.
+- **Check for understanding (2 min):** Convert a verbal filter into SQL.
+
 ![Lesson Visual](/content/images/grade10/week21.png)
 
 ## Practice Activity

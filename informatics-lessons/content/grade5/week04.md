@@ -58,6 +58,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Practice decoding and compare different simple codes.
+- **Key ideas (8 min):** Decoding reverses the encryption. Substitution swaps letters using a key. Keep the key safe.
+- **Guided demo (6 min):** Use a simple substitution key to decode a short message.
+- **Hands-on practice (6 min):** Students create a key and encode a message for a partner to decode.
+- **Check for understanding (3 min):** What happens if you lose the key?
+
 ![Lesson Visual](/content/images/grade5/week04.png)
 
 ## Practice Activity

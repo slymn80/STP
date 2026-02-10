@@ -1,0 +1,5 @@
+- **Goal (2 min):** Use additional WHERE operators and NULL checks.
+- **NULL handling (8 min):** `IS NULL`, `IS NOT NULL` and why `= NULL` does not work.
+- **Range and exclusion (7 min):** `BETWEEN`, `NOT BETWEEN`, combining with `AND`/`OR`.
+- **Guided practice (6 min):** Students identify missing data and filter it out.
+- **Check for understanding (2 min):** Write a query that excludes NULL values.

@@ -58,6 +58,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Introduce raster and vector graphics.
+- **Key ideas (8 min):** Raster images are made of pixels; vector images are made of paths and shapes. Raster is good for photos; vector is good for logos and icons.
+- **Guided demo (6 min):** Zoom in on a raster image to show pixels; compare with a vector shape.
+- **Hands-on practice (6 min):** Students sort examples into raster or vector.
+- **Check for understanding (3 min):** Name one advantage of each type.
+
 ![Lesson Visual](/content/images/grade5/week09.png)
 
 ## Practice Activity

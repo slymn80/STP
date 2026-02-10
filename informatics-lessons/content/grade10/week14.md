@@ -59,6 +59,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Apply Breadth-First Search (BFS) on graphs.
+- **BFS idea (8 min):** Explore neighbors level by level using a queue. BFS finds shortest path in unweighted graphs.
+- **Step-by-step example (7 min):** Walk BFS on a small graph and show layer expansion.
+- **Guided practice (6 min):** Students run BFS on a given graph and identify shortest path length.
+- **Check for understanding (2 min):** Identify data structure used by BFS and why it matters.
+
 ![Lesson Visual](/content/images/grade10/week14.png)
 
 ## Practice Activity

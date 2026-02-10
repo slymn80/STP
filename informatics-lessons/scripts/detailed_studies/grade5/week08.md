@@ -1,0 +1,5 @@
+- **Goal (2 min):** Strengthen coding and decoding skills.
+- **Key ideas (8 min):** Review Caesar shift and substitution. Emphasize keeping the key secret.
+- **Guided demo (6 min):** Decode a short class message together.
+- **Hands-on practice (6 min):** Pair work: create, encode, and decode a message.
+- **Check for understanding (3 min):** Students explain how to reverse a Caesar shift.

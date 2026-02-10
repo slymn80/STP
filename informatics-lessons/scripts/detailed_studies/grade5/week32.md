@@ -1,0 +1,5 @@
+- **Goal (2 min):** Create shared folders and files.
+- **Key ideas (8 min):** Shared folders allow collaboration. Permissions decide who can view or edit. Be careful with public links.
+- **Guided demo (6 min):** Walk through sharing a folder with a classmate (view-only).
+- **Hands-on practice (6 min):** Students plan a class folder structure for a group project.
+- **Check for understanding (3 min):** What is a shared folder?

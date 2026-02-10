@@ -1,0 +1,5 @@
+- **Goal (2 min):** Use JavaScript operators correctly.
+- **Operators overview (9 min):** Arithmetic, comparison, and logical operators. Emphasize `===` vs `==`.
+- **Expressions (7 min):** Operator precedence and using parentheses for clarity.
+- **Guided practice (5 min):** Students evaluate expressions and explain results.
+- **Check for understanding (2 min):** Identify correct operator for a given condition.

@@ -60,6 +60,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Compare algorithms and introduce graph concepts.
+- **Algorithm comparison (8 min):** Time complexity (O(n), O(n log n), O(n^2)) and trade-offs such as simplicity vs speed.
+- **Graph basics (8 min):** Define vertices, edges, and common representations (adjacency list/matrix). Identify real-world examples.
+- **Guided practice (5 min):** Convert a small graph drawing into an adjacency list.
+- **Check for understanding (2 min):** Students classify algorithm runtimes and name a graph use case.
+
 ![Lesson Visual](/content/images/grade10/week12.png)
 
 ## Practice Activity

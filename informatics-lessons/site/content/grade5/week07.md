@@ -58,6 +58,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Apply skills from information and binary topics.
+- **Key ideas (8 min):** Practice identifying information forms and simple binary encoding.
+- **Guided demo (6 min):** Teacher shows a mixed set of items and students classify them.
+- **Hands-on practice (6 min):** Students complete a short worksheet: label forms and convert 3 numbers to binary.
+- **Check for understanding (3 min):** Exit ticket: one form of information and one binary conversion.
+
 ![Lesson Visual](/content/images/grade5/week07.png)
 
 ## Practice Activity

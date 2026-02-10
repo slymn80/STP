@@ -1,0 +1,5 @@
+- **Goal (2 min):** Apply Depth-First Search (DFS) on graphs.
+- **DFS idea (8 min):** Explore a path deeply, then backtrack. Use stack or recursion. Explain visited set.
+- **Step-by-step example (7 min):** Walk DFS on a small graph and list visit order.
+- **Guided practice (6 min):** Students perform DFS from a given start node and compare answers.
+- **Check for understanding (2 min):** Short question on DFS order and stack use.

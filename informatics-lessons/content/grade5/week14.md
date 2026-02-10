@@ -58,6 +58,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Work with curves in vector graphics.
+- **Key ideas (8 min):** Curves are made by points (nodes) and handles. Moving handles changes the curve shape.
+- **Guided demo (6 min):** Create a smooth curve and adjust its handles.
+- **Hands-on practice (6 min):** Students draw a simple wave or leaf using curves.
+- **Check for understanding (3 min):** What do handles control?
+
 ![Lesson Visual](/content/images/grade5/week14.png)
 
 ## Practice Activity

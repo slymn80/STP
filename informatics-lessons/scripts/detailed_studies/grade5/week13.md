@@ -1,0 +1,5 @@
+- **Goal (2 min):** Create vector images using shapes.
+- **Key ideas (8 min):** Vector tools use shapes, lines, and fills. Vectors scale without losing quality.
+- **Guided demo (6 min):** Build a simple logo from circles and rectangles.
+- **Hands-on practice (6 min):** Students design a simple badge with shapes.
+- **Check for understanding (3 min):** Why are vectors good for logos?

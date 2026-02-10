@@ -137,6 +137,42 @@ select {
   background: #fff;
 }
 
+.exam {
+  margin-top: 12px;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.exam ol {
+  padding-left: 20px;
+}
+
+.exam textarea {
+  width: 100%;
+  min-height: 70px;
+  margin-top: 6px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  font-family: inherit;
+  padding: 6px 8px;
+}
+
+.exam-answers {
+  margin-top: 10px;
+  border: 1px dashed var(--line);
+  border-radius: 8px;
+  padding: 8px 12px;
+  background: #fffaf6;
+}
+
+.exam-answers summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--accent-dark);
+}
+
 .footer {
   padding: 16px 20px 30px;
   text-align: center;

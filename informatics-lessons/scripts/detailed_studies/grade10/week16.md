@@ -1,0 +1,5 @@
+- **Goal (2 min):** Describe database fields and keys.
+- **Fields and records (7 min):** Column (field) vs row (record). Data types and why they matter.
+- **Keys (9 min):** Primary key as unique identifier, foreign key for relationships. Show a simple two-table example (Students, Classes).
+- **Guided practice (5 min):** Students identify possible primary keys and foreign keys in a sample dataset.
+- **Check for understanding (2 min):** What makes a good primary key?

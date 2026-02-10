@@ -59,6 +59,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Introduce JavaScript and simple interaction.
+- **JS basics (8 min):** Script placement, variables, and using the console. Show `console.log()` and a simple alert.
+- **Data types (7 min):** Numbers, strings, booleans, and `null`/`undefined`.
+- **Guided practice (6 min):** Students write a script that stores a name and prints a greeting.
+- **Check for understanding (2 min):** Identify data types for sample values.
+
 ![Lesson Visual](/content/images/grade10/week29.png)
 
 ## Practice Activity

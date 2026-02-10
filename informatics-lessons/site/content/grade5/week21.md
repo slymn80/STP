@@ -58,6 +58,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Practice accurate turns and calibration.
+- **Key ideas (8 min):** Calibration sets the zero point. Small errors can accumulate, so test and adjust.
+- **Guided demo (6 min):** Demonstrate calibration and a repeatable turn.
+- **Hands-on practice (6 min):** Students test a 90-degree turn and note error.
+- **Check for understanding (3 min):** Why is calibration important?
+
 ![Lesson Visual](/content/images/grade5/week21.png)
 
 ## Practice Activity

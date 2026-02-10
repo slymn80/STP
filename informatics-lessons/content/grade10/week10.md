@@ -60,6 +60,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Use dictionaries and basic file handling in Python.
+- **Dictionaries (8 min):** Key-value pairs, adding/updating entries, checking keys, and iterating over items.
+- **Files in Python (7 min):** Use `open()` with read/write modes, read lines, and write output. Emphasize closing files or using `with`.
+- **Guided practice (6 min):** Read a text file, count word frequency with a dict, and write summary to a new file.
+- **Check for understanding (2 min):** Students explain the difference between keys and values and the purpose of `with open(...)`.
+
 ![Lesson Visual](/content/images/grade10/week10.png)
 
 ## Practice Activity

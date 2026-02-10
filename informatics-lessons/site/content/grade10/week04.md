@@ -59,6 +59,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Apply network security measures for safe use of shared networks.
+- **Core measures (9 min):** Use of firewalls to control network traffic, secure configurations, and least-privilege access. Explain why filtering inbound and outbound traffic reduces risk.
+- **Safe network behavior (6 min):** Strong unique passwords, updates/patching, avoiding unknown USB devices, and verifying links before clicking.
+- **Network hygiene (6 min):** Secure Wi-Fi practices (WPA2/WPA3, avoid open networks), separating personal and school devices when possible, and logging out of shared accounts.
+- **Check for understanding (2 min):** Students list three actions that reduce risk on a school network.
+
 ![Lesson Visual](/content/images/grade10/week04.png)
 
 ## Practice Activity

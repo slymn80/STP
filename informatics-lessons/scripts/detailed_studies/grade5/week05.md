@@ -1,0 +1,5 @@
+- **Goal (2 min):** Explain why computers use binary.
+- **Key ideas (8 min):** Computers store information as 0 and 1 (bits). Eight bits make a byte. Letters, images, and sounds are stored as binary.
+- **Guided demo (6 min):** Show a small binary number and convert to decimal using place values.
+- **Hands-on practice (6 min):** Students use a 4-bit chart to encode simple numbers.
+- **Check for understanding (3 min):** What is a bit? Why do computers use 0 and 1?

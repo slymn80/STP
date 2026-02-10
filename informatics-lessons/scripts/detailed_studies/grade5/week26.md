@@ -1,0 +1,5 @@
+- **Goal (2 min):** Integrate sensors in a practical task.
+- **Key ideas (8 min):** Use ultrasonic sensor to detect objects and color sensor to keep position. Combine readings with if/else logic.
+- **Guided demo (6 min):** Show a simple combined logic example.
+- **Hands-on practice (6 min):** Students build or simulate a sensor-driven routine.
+- **Check for understanding (3 min):** Which sensor measures distance? Which detects the line?

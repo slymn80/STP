@@ -1,0 +1,5 @@
+- **Goal (2 min):** Define robots and list types and uses.
+- **Key ideas (8 min):** A robot is a programmable machine that can perform tasks automatically. Types include industrial robots, service robots, and educational robots.
+- **Guided demo (6 min):** Show short examples of robots in factories, hospitals, and homes.
+- **Hands-on practice (6 min):** Students classify 6 examples into robot types.
+- **Check for understanding (3 min):** What makes a machine a robot?

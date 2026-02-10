@@ -1,0 +1,5 @@
+- **Goal (2 min):** Practice line-following control.
+- **Key ideas (8 min):** Use continuous feedback: if too dark turn one way, if too light turn the other. Calibrate for lighting.
+- **Guided demo (6 min):** Simulate readings and decisions on the board.
+- **Hands-on practice (6 min):** Students test or trace a line-following path.
+- **Check for understanding (3 min):** How does calibration help?

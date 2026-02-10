@@ -1,0 +1,5 @@
+- **Goal (2 min):** Define digital media and give examples.
+- **Key ideas (8 min):** Digital media includes text, images, audio, and video stored as digital data. Examples: websites, e-books, music files.
+- **Guided demo (6 min):** Sort classroom examples into digital or non-digital media.
+- **Hands-on practice (6 min):** Students create a simple digital media poster (text + image).
+- **Check for understanding (3 min):** What makes media digital?

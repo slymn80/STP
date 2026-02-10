@@ -1,0 +1,5 @@
+- **Goal (2 min):** Work with curves in vector graphics.
+- **Key ideas (8 min):** Curves are made by points (nodes) and handles. Moving handles changes the curve shape.
+- **Guided demo (6 min):** Create a smooth curve and adjust its handles.
+- **Hands-on practice (6 min):** Students draw a simple wave or leaf using curves.
+- **Check for understanding (3 min):** What do handles control?

@@ -59,6 +59,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Understand SQL constraints for data integrity.
+- **Constraints overview (9 min):** `PRIMARY KEY`, `FOREIGN KEY`, `UNIQUE`, `NOT NULL`, `CHECK`.
+- **Why constraints matter (7 min):** Prevent bad data and enforce relationships.
+- **Guided practice (5 min):** Students add constraints to a table design.
+- **Check for understanding (2 min):** Identify which constraint to use for a given rule.
+
 ![Lesson Visual](/content/images/grade10/week25.png)
 
 ## Practice Activity

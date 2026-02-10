@@ -60,6 +60,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Define computer hardware and focus on how network devices and cabling connect a PC to a LAN.
+- **Core components (8 min):** Identify NIC, switch, router, and wireless access point. Explain that a switch connects devices within a LAN while a router connects different networks and uses IP addressing to move traffic between them. Clarify the role of an access point as the bridge between wireless devices and the wired LAN.
+- **Cables and connectors (6 min):** Contrast twisted-pair Ethernet cables (Cat5e vs Cat6) and explain why pairs are twisted to reduce interference. Identify the common 8P8C (RJ-45) connector and show how a patch cable connects a PC to a switch port.
+- **Guided practice (6 min):** Students label a simple diagram (PC -> switch -> router -> ISP). Then match each device to its function (connects devices, routes between networks, provides Wi-Fi).
+- **Check for understanding (3 min):** Quick questions: Which device forwards traffic between networks? Which cable connects a PC to a switch? What is the NIC for?
+
 ![Lesson Visual](/content/images/grade10/week01.png)
 
 ## Practice Activity

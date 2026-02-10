@@ -1,0 +1,5 @@
+- **Goal (2 min):** Learn safe computer habits and ergonomics.
+- **Key ideas (8 min):** Good posture, screen height, relaxed shoulders, and neutral wrists. Take short breaks to rest eyes and hands.
+- **Guided demo (6 min):** Demonstrate correct sitting position and monitor distance.
+- **Hands-on practice (6 min):** Students adjust their workstation and list 3 safety rules.
+- **Check for understanding (3 min):** Name two habits that protect your eyes and hands.

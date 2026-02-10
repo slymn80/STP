@@ -1,0 +1,5 @@
+- **Goal (2 min):** Use MIN/MAX and JOINs to connect tables.
+- **Aggregate functions (7 min):** `MIN()` and `MAX()` with numeric columns; introduce `GROUP BY` idea.
+- **JOIN basics (10 min):** Explain why JOIN is needed, show inner join with two tables and matching keys.
+- **Guided practice (4 min):** Students write a JOIN query for a simple Students-Classes example.
+- **Check for understanding (2 min):** Identify the join condition in a query.

@@ -59,6 +59,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Use SELECT to retrieve data.
+- **SELECT basics (9 min):** `SELECT columns FROM table` and selecting all columns with `*`.
+- **Filtering (6 min):** Add `WHERE` to select specific rows and compare text vs numbers.
+- **Guided practice (6 min):** Students write 2-3 queries to retrieve specific records.
+- **Check for understanding (2 min):** Explain what each part of SELECT does.
+
 ![Lesson Visual](/content/images/grade10/week19.png)
 
 ## Practice Activity

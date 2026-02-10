@@ -59,6 +59,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Apply comparison and logical operators in conditions.
+- **Comparisons (8 min):** `>`, `<`, `>=`, `<=`, `===`, `!==`.
+- **Logical operators (7 min):** `&&`, `||`, `!` and truth tables for conditions.
+- **Guided practice (6 min):** Build conditions for login checks and age-based rules.
+- **Check for understanding (2 min):** Students write a boolean expression for a scenario.
+
 ![Lesson Visual](/content/images/grade10/week33.png)
 
 ## Practice Activity

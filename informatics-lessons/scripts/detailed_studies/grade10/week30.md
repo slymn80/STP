@@ -1,0 +1,5 @@
+- **Goal (2 min):** Use JavaScript output and variables.
+- **Output methods (7 min):** `console.log()`, `alert()`, and updating the DOM with `textContent`.
+- **Variables (9 min):** `let`, `const`, and assignment. Explain naming rules and reassignment.
+- **Guided practice (5 min):** Students create a small script that computes a total cost.
+- **Check for understanding (2 min):** Predict output for a short script.

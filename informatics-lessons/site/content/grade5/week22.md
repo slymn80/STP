@@ -58,6 +58,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Introduce line-following robots with a color sensor.
+- **Key ideas (8 min):** Color/reflectance sensors detect light and dark. Robots follow the edge between line and background.
+- **Guided demo (6 min):** Show how sensor readings change on black vs white.
+- **Hands-on practice (6 min):** Students write simple if/else logic for follow-line behavior.
+- **Check for understanding (3 min):** What does the sensor read on the line?
+
 ![Lesson Visual](/content/images/grade5/week22.png)
 
 ## Practice Activity

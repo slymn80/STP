@@ -60,6 +60,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Practice assignment operators and data types in JavaScript.
+- **Assignment operators (8 min):** `=`, `+=`, `-=`, `*=`, `/=`, and how they update values.
+- **Data types (7 min):** Number vs string, type conversion, and why `"5" + 2` is different from `5 + 2`.
+- **Guided practice (6 min):** Students fix a script with type conversion mistakes.
+- **Check for understanding (2 min):** Quick quiz on operators and resulting values.
+
 ![Lesson Visual](/content/images/grade10/week31.png)
 
 ## Practice Activity

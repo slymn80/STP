@@ -1,0 +1,5 @@
+- **Goal (2 min):** Understand the CIA triad and apply it to real systems.
+- **CIA definitions (8 min):** Confidentiality means preventing unauthorized disclosure. Integrity means preventing unauthorized changes to data or systems. Availability means systems work promptly for authorized users.
+- **Examples (7 min):** Map each element to a school system: confidentiality for student records, integrity for grades, availability for the learning platform during class.
+- **Threats and controls (6 min):** Connect threats to each element (data leak, tampering, outage) and give one control for each (access control, checksums/audit, redundancy/backup).
+- **Check for understanding (2 min):** Students classify three scenarios as C, I, or A and explain why.

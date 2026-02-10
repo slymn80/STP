@@ -59,6 +59,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Explain how information moves from a source to a receiver.
+- **Key ideas (8 min):** Communication includes a source, message, channel, and receiver. Channels can be spoken voice, paper, radio, or the internet. Noise can change the message.
+- **Guided demo (6 min):** Telephone game: whisper a short message through 5 students, compare original vs final message.
+- **Hands-on practice (6 min):** Students draw a simple communication diagram for sending a message to a friend.
+- **Check for understanding (3 min):** Identify the source, channel, and receiver in a simple scenario.
+
 ![Lesson Visual](/content/images/grade5/week02.png)
 
 ## Practice Activity

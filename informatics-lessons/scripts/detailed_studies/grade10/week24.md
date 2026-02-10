@@ -1,0 +1,5 @@
+- **Goal (2 min):** Group results and use SELECT INTO style patterns.
+- **GROUP BY (9 min):** Group rows and aggregate counts or totals per group.
+- **SELECT INTO (7 min):** Explain saving query results into a new table or using CREATE TABLE AS SELECT.
+- **Guided practice (5 min):** Students write a GROUP BY query and interpret results.
+- **Check for understanding (2 min):** Explain why GROUP BY changes the output.

@@ -1,0 +1,5 @@
+- **Goal (2 min):** Insert data into tables safely.
+- **INSERT basics (8 min):** `INSERT INTO table (columns) VALUES (...)` and inserting multiple rows.
+- **Data integrity (7 min):** Why column order matters, handling missing values, and default values.
+- **Guided practice (6 min):** Students write INSERT statements for a given table.
+- **Check for understanding (2 min):** Diagnose a faulty INSERT statement.

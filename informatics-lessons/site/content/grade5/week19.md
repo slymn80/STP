@@ -59,6 +59,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Understand the gyroscopic sensor.
+- **Key ideas (8 min):** A gyroscope helps measure rotation and orientation. Robots use it to keep balance and turn accurately.
+- **Guided demo (6 min):** Use a spinning top or phone gyro demo to show rotation sensing.
+- **Hands-on practice (6 min):** Students predict how a robot can use gyro data to keep straight.
+- **Check for understanding (3 min):** What does a gyro measure?
+
 ![Lesson Visual](/content/images/grade5/week19.png)
 
 ## Practice Activity

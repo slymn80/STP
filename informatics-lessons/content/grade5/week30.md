@@ -60,6 +60,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Protect data with strong passwords.
+- **Key ideas (8 min):** Use long passphrases, do not share passwords, and use different passwords for different accounts.
+- **Guided demo (6 min):** Compare a weak password vs a strong passphrase.
+- **Hands-on practice (6 min):** Students create a safe passphrase (not personal info).
+- **Check for understanding (3 min):** Why should passwords be kept secret?
+
 ![Lesson Visual](/content/images/grade5/week30.png)
 
 ## Practice Activity

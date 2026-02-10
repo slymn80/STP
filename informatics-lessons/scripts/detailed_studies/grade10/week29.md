@@ -1,0 +1,5 @@
+- **Goal (2 min):** Introduce JavaScript and simple interaction.
+- **JS basics (8 min):** Script placement, variables, and using the console. Show `console.log()` and a simple alert.
+- **Data types (7 min):** Numbers, strings, booleans, and `null`/`undefined`.
+- **Guided practice (6 min):** Students write a script that stores a name and prints a greeting.
+- **Check for understanding (2 min):** Identify data types for sample values.

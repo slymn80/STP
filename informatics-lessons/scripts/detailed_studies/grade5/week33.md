@@ -1,0 +1,5 @@
+- **Goal (2 min):** Prepare and review mini-project skills for the exam.
+- **Key ideas (8 min):** Combine safe sharing, password protection, and document formatting. Use page setup and print preview before printing.
+- **Guided demo (6 min):** Show page orientation, margins, and print preview.
+- **Hands-on practice (6 min):** Students format a one-page document and check preview.
+- **Check for understanding (3 min):** Name two steps before printing.

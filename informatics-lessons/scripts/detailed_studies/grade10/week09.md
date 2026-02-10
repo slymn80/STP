@@ -1,0 +1,5 @@
+- **Goal (2 min):** Use functions to organize code and apply built-in functions.
+- **Functions in Python (9 min):** Define a function, parameters, return values, and scope. Show how to call functions and reuse code.
+- **Predefined functions (6 min):** Demonstrate `len()`, `type()`, `sum()`, `min()`, `max()`, and `sorted()`.
+- **Guided practice (6 min):** Students write a function to compute average and use built-ins to summarize a list.
+- **Check for understanding (2 min):** Identify inputs/outputs for a small function and predict results.

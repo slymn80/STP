@@ -60,6 +60,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Read data from files and compare sorting approaches.
+- **Reading data (6 min):** Parse simple CSV or line-based files, clean input, and convert to numbers.
+- **Sorting algorithms (10 min):** Overview of selection sort, insertion sort, and merge sort. Discuss when each is useful and their time complexity.
+- **Guided practice (5 min):** Students sort a small list by hand using insertion sort steps.
+- **Check for understanding (2 min):** Identify which sort is faster for large lists and why.
+
 ![Lesson Visual](/content/images/grade10/week11.png)
 
 ## Practice Activity

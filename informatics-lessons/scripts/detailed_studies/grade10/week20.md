@@ -1,0 +1,5 @@
+- **Goal (2 min):** Apply operators in the WHERE clause.
+- **Comparison operators (9 min):** `=`, `!=`, `<`, `>`, `<=`, `>=`, and `BETWEEN`.
+- **Logical operators (6 min):** `AND`, `OR`, `NOT` and how parentheses change logic.
+- **Guided practice (6 min):** Students build queries that combine comparisons and logic.
+- **Check for understanding (2 min):** Identify which rows match a given WHERE clause.

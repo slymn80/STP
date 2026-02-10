@@ -1,0 +1,5 @@
+- **Goal (2 min):** Understand big data basics and what a database is.
+- **Big data basics (8 min):** Volume, variety, velocity, and variability. Explain why traditional tools can struggle at scale.
+- **What is a database (8 min):** Organized collection of data with structured tables, rows, and columns. Explain schema and why databases support reliable querying.
+- **Guided practice (5 min):** Students classify examples as structured vs unstructured data.
+- **Check for understanding (2 min):** Define database and list two big data characteristics.

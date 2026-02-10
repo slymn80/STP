@@ -1,0 +1,5 @@
+- **Goal (2 min):** Introduce web programming and basic site structure.
+- **Web basics (8 min):** HTML for structure, CSS for styling, JavaScript for behavior. Show a simple HTML page layout with head and body.
+- **Site structure (7 min):** Use semantic sections (header, nav, main, footer) and why they matter.
+- **Guided practice (6 min):** Students sketch a simple site layout and list needed HTML elements.
+- **Check for understanding (2 min):** Identify which technology does structure vs styling vs behavior.

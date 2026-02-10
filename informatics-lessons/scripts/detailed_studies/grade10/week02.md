@@ -1,0 +1,5 @@
+- **Goal (2 min):** Explain network addressing and how DNS turns names into addresses.
+- **IP addressing (9 min):** Define IPv4 as a 32-bit address and show dotted-decimal format. Explain network vs host parts and the idea of a default gateway for reaching other networks. Use a simple example: device IP, subnet, gateway.
+- **DNS basics (7 min):** Explain the DNS hierarchy, the role of a resolver, and authoritative name servers. Walk through a lookup: client asks resolver, resolver queries authoritative servers, response is cached.
+- **Guided practice (5 min):** Students map a sample domain name to an IP and identify which component (resolver, server, cache) does what.
+- **Check for understanding (2 min):** Short exit ticket: define DNS, define IP address, name one reason caching is helpful.

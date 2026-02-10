@@ -61,6 +61,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Work with strings and common string methods in Python.
+- **Strings in Python (8 min):** Define strings, indexing, slicing, and immutability. Show examples of concatenation and repetition.
+- **String methods (7 min):** Demonstrate `lower()`, `upper()`, `strip()`, `replace()`, `split()`, and `join()` with short examples.
+- **Guided practice (6 min):** Students write a short script to normalize a sentence and split it into words.
+- **Check for understanding (2 min):** Quick quiz on indexing, slicing, and method outputs.
+
 ![Lesson Visual](/content/images/grade10/week08.png)
 
 ## Practice Activity

@@ -1,0 +1,5 @@
+- **Goal (2 min):** Review raster vs vector for the exam.
+- **Key ideas (8 min):** Raster = pixels, vector = paths. Use cases: photos vs logos.
+- **Guided demo (6 min):** Compare two images of the same size and zoom in.
+- **Hands-on practice (6 min):** Exam-style questions: choose best format for given tasks.
+- **Check for understanding (3 min):** Two quick exam items with answers.

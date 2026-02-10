@@ -1,0 +1,5 @@
+- **Goal (2 min):** Continue bitmap processing skills.
+- **Key ideas (8 min):** Simple effects: blur, sharpen, and color adjustments. Use undo to fix mistakes.
+- **Guided demo (6 min):** Apply a filter and compare before/after.
+- **Hands-on practice (6 min):** Students apply one effect and explain why.
+- **Check for understanding (3 min):** When would you use blur or sharpen?

@@ -58,6 +58,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Identify different types of information and the forms they take in daily life.
+- **Key ideas (8 min):** Information can be text, numbers, images, sound, or video. The same idea can be shown in different forms (a story as a text, audio, or a picture). Give simple classroom examples.
+- **Guided demo (6 min):** Show one topic in three forms (short text, picture, and spoken sentence). Ask students to name the form and what stays the same.
+- **Hands-on practice (6 min):** Students collect 5 examples from the classroom and label each as text, image, sound, or video.
+- **Check for understanding (3 min):** Quick questions: What is information? Name two forms of information and give examples.
+
 ![Lesson Visual](/content/images/grade5/week01.png)
 
 ## Practice Activity

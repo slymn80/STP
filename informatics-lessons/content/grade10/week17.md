@@ -60,6 +60,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Introduce MySQL and create the first database and table.
+- **MySQL overview (7 min):** Client-server model, databases contain tables, SQL used to define and query data.
+- **Create database and table (10 min):** `CREATE DATABASE`, `USE`, `CREATE TABLE`, and data types. Explain primary key in CREATE TABLE.
+- **Guided practice (4 min):** Students draft a table schema for a simple class roster.
+- **Check for understanding (2 min):** Identify required parts of a CREATE TABLE statement.
+
 ![Lesson Visual](/content/images/grade10/week17.png)
 
 ## Practice Activity

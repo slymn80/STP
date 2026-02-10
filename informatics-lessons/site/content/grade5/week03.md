@@ -58,6 +58,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Understand simple encryption and why we encode messages.
+- **Key ideas (8 min):** Encryption hides a message so only the right person can read it. A simple example is a Caesar shift (move letters forward by 3).
+- **Guided demo (6 min):** Encrypt a short word together using a shift of 3, then decode it.
+- **Hands-on practice (6 min):** Students encrypt and decode two short words in pairs.
+- **Check for understanding (3 min):** What is encryption? Why do we use it?
+
 ![Lesson Visual](/content/images/grade5/week03.png)
 
 ## Practice Activity

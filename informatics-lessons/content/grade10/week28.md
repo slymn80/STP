@@ -60,6 +60,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Align elements with CSS.
+- **CSS layout basics (8 min):** Box model, display types, and spacing with margin/padding.
+- **Flexbox alignment (9 min):** `display: flex`, `justify-content`, `align-items`, and centering patterns.
+- **Guided practice (4 min):** Students build a simple aligned card row using flexbox.
+- **Check for understanding (2 min):** Explain the difference between main axis and cross axis.
+
 ![Lesson Visual](/content/images/grade10/week28.png)
 
 ## Practice Activity

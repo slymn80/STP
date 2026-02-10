@@ -59,6 +59,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Insert data into tables safely.
+- **INSERT basics (8 min):** `INSERT INTO table (columns) VALUES (...)` and inserting multiple rows.
+- **Data integrity (7 min):** Why column order matters, handling missing values, and default values.
+- **Guided practice (6 min):** Students write INSERT statements for a given table.
+- **Check for understanding (2 min):** Diagnose a faulty INSERT statement.
+
 ![Lesson Visual](/content/images/grade10/week18.png)
 
 ## Practice Activity

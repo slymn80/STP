@@ -1,0 +1,5 @@
+- **Goal (2 min):** Apply constraints in practice and review.
+- **Constraint usage (8 min):** Example table with primary key, foreign key, and check constraints.
+- **Troubleshooting (7 min):** Common errors when constraints fail and how to interpret them.
+- **Guided practice (6 min):** Students debug a table definition with missing constraints.
+- **Check for understanding (2 min):** Explain why a foreign key insert might fail.

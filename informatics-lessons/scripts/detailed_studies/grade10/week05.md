@@ -1,0 +1,5 @@
+- **Goal (2 min):** Compare authentication methods and apply good password practices.
+- **Authentication types (9 min):** Passwords (something you know), biometrics (something you are), and multi-factor authentication (combine factors). Explain why MFA improves security.
+- **Password guidance (6 min):** Use long passphrases, avoid reused passwords, and use a password manager. Emphasize secure storage (hashed and salted by systems).
+- **Biometrics (6 min):** Pros (convenience) and limits (false matches, privacy). Explain that biometrics are usually paired with another factor for higher assurance.
+- **Check for understanding (2 min):** Students choose the best method for three scenarios and justify their choices.

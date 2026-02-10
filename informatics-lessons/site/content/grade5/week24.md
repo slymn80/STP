@@ -58,6 +58,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Use ultrasonic and color sensors for robo-sumo.
+- **Key ideas (8 min):** Ultrasonic sensors measure distance by echo. Color sensors detect the ring edge. Combine them to find opponents and stay inside the ring.
+- **Guided demo (6 min):** Show a simple strategy: scan, charge, retreat at edge.
+- **Hands-on practice (6 min):** Students plan a behavior flowchart for sumo.
+- **Check for understanding (3 min):** What sensor prevents the robot from leaving the ring?
+
 ![Lesson Visual](/content/images/grade5/week24.png)
 
 ## Practice Activity

@@ -58,6 +58,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Create and edit bitmap (raster) images.
+- **Key ideas (8 min):** Use tools like brush, eraser, fill, and selection. Explain resolution and why big edits can blur.
+- **Guided demo (6 min):** Edit a simple bitmap: draw, fill, and erase.
+- **Hands-on practice (6 min):** Students create a small pixel art icon.
+- **Check for understanding (3 min):** What happens when you enlarge a bitmap?
+
 ![Lesson Visual](/content/images/grade5/week10.png)
 
 ## Practice Activity

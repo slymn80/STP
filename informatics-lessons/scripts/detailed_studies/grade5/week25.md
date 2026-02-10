@@ -1,0 +1,5 @@
+- **Goal (2 min):** Review robo-sumo strategies for the exam.
+- **Key ideas (8 min):** Arena rules, start delay, edge detection, and attack strategy. Fair play and safety.
+- **Guided demo (6 min):** Analyze a sample match and discuss decisions.
+- **Hands-on practice (6 min):** Short quiz and strategy sketch.
+- **Check for understanding (3 min):** Two exam questions and quick answers.

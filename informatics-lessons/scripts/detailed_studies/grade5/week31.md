@@ -1,0 +1,5 @@
+- **Goal (2 min):** Protect files and share safely.
+- **Key ideas (8 min):** Use passwords for documents, control who can edit or view, and keep backups.
+- **Guided demo (6 min):** Show how sharing settings change who can open a file.
+- **Hands-on practice (6 min):** Students decide which files should be public vs private.
+- **Check for understanding (3 min):** What is the difference between view and edit access?

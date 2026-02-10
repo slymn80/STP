@@ -1,0 +1,5 @@
+- **Goal (2 min):** Use loops to repeat actions in JavaScript.
+- **Loop types (9 min):** `for`, `while`, and `do...while` and when to use each.
+- **Loop patterns (7 min):** Counting, iterating over arrays, and preventing infinite loops.
+- **Guided practice (5 min):** Students write a loop to sum numbers 1..n.
+- **Check for understanding (2 min):** Identify loop output for a short code snippet.

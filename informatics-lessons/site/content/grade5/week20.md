@@ -58,6 +58,13 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
+### Detailed Topic Study
+- **Goal (2 min):** Program robot turns with a gyroscope.
+- **Key ideas (8 min):** Turning by degrees needs sensor feedback. Use gyro readings to stop at 90 or 180 degrees.
+- **Guided demo (6 min):** Show a sample block or pseudocode for turning to 90 degrees.
+- **Hands-on practice (6 min):** Students plan a sequence of turns for a square path.
+- **Check for understanding (3 min):** How does the robot know when to stop turning?
+
 ![Lesson Visual](/content/images/grade5/week20.png)
 
 ## Practice Activity

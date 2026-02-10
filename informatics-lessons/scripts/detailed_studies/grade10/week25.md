@@ -1,0 +1,5 @@
+- **Goal (2 min):** Understand SQL constraints for data integrity.
+- **Constraints overview (9 min):** `PRIMARY KEY`, `FOREIGN KEY`, `UNIQUE`, `NOT NULL`, `CHECK`.
+- **Why constraints matter (7 min):** Prevent bad data and enforce relationships.
+- **Guided practice (5 min):** Students add constraints to a table design.
+- **Check for understanding (2 min):** Identify which constraint to use for a given rule.

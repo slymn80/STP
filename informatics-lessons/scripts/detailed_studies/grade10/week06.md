@@ -1,0 +1,5 @@
+- **Goal (2 min):** Use number systems and truth tables to represent data.
+- **Number systems (9 min):** Binary, decimal, and hexadecimal. Show conversion between bases and explain why powers of 2 are efficient for computers. Include a short binary addition with carry.
+- **Truth tables (7 min):** Define Boolean variables and create a truth table for AND, OR, and NOT. Connect truth tables to decision making in programs.
+- **Binary arithmetic (5 min):** Add and subtract simple 4-bit numbers; explain overflow in fixed width.
+- **Check for understanding (2 min):** Students convert one decimal to binary and complete a simple truth table.

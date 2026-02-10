@@ -1,0 +1,5 @@
+- **Goal (2 min):** Review binary and pixels for the exam.
+- **Key ideas (8 min):** Images are made of pixels, each stored as binary values. More pixels means more detail.
+- **Guided demo (6 min):** Show a pixel grid and how changing bits changes the picture.
+- **Hands-on practice (6 min):** Short quiz practice: convert numbers to binary and label a pixel grid.
+- **Check for understanding (3 min):** Two exam-style questions and quick answers.
