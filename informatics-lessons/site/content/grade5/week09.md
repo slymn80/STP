@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 5
 week: 9
+section: "5-A"
+date: "2025-11-04"
+day: "Tuesday"
 topic: "Computer graphics, Raster and vector graphic editors"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 5 - Week 9: Computer graphics, Raster and vector graphic editors
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Computer graphics, Raster and vector graphic editors in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -58,14 +61,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Introduce raster and vector graphics.
-- **Key ideas (8 min):** Raster images are made of pixels; vector images are made of paths and shapes. Raster is good for photos; vector is good for logos and icons.
-- **Guided demo (6 min):** Zoom in on a raster image to show pixels; compare with a vector shape.
-- **Hands-on practice (6 min):** Students sort examples into raster or vector.
-- **Check for understanding (3 min):** Name one advantage of each type.
-
-![Lesson Visual](/content/images/grade5/week09.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Computer graphics, Raster and vector graphic editors' and 'not related'.
@@ -73,6 +68,11 @@ duration: "40 minutes"
 - Teacher: Provide concrete examples and model one classification.
 - Students: Share answers with a partner.
 - Practice: Familiarization with growth and graphic editors.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.

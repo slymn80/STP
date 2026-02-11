@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 5
 week: 33
+section: "5-A"
+date: "2026-05-12"
+day: "Tuesday"
 topic: "Implementation of mini-projects in the EXAM No. 4"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 5 - Week 33: Implementation of mini-projects in the EXAM No. 4
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Implementation of mini-projects in the EXAM No. 4 in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -61,14 +64,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Prepare and review mini-project skills for the exam.
-- **Key ideas (8 min):** Combine safe sharing, password protection, and document formatting. Use page setup and print preview before printing.
-- **Guided demo (6 min):** Show page orientation, margins, and print preview.
-- **Hands-on practice (6 min):** Students format a one-page document and check preview.
-- **Check for understanding (3 min):** Name two steps before printing.
-
-![Lesson Visual](/content/images/grade5/week33.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Implementation of mini-projects in the EXAM No. 4' and 'not related'.
@@ -77,6 +72,11 @@ duration: "40 minutes"
 - Students: Share answers with a partner.
 - Practice: Setting a password for documents;post.
 - Practice: Edit.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.

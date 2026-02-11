@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 10
 week: 19
+section: "10-A, 10-B, 10-C, 10-D"
+date: "10-A 27.01.2026 (Tuesday); 10-B 27.01.2026 (Tuesday); 10-C 22.01.2026 (Thursday); 10-D 22.01.2026 (Thursday)"
+day: ""
 topic: "Software"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 10 - Week 19: Software
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Software in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -59,14 +62,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Use SELECT to retrieve data.
-- **SELECT basics (9 min):** `SELECT columns FROM table` and selecting all columns with `*`.
-- **Filtering (6 min):** Add `WHERE` to select specific rows and compare text vs numbers.
-- **Guided practice (6 min):** Students write 2-3 queries to retrieve specific records.
-- **Check for understanding (2 min):** Explain what each part of SELECT does.
-
-![Lesson Visual](/content/images/grade10/week19.png)
 
 ## Practice Activity
 - Short response: Describe a scenario where Software is important.
@@ -74,6 +69,11 @@ duration: "40 minutes"
 - Teacher: Circulate, prompt with guiding questions, and correct misconceptions.
 - Students: Work in pairs and compare answers.
 - Apply: Operations with Select Statement.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.
@@ -88,3 +88,5 @@ duration: "40 minutes"
 - Which part of Software was easiest for students to understand?
 - Which activity best supported learning objectives?
 - What should be adjusted for next time?
+
+

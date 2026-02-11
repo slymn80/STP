@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 5
 week: 17
+section: "5-A"
+date: "2026-01-13"
+day: "Tuesday"
 topic: "Robotics, Types of robots and their applications"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 5 - Week 17: Robotics, Types of robots and their applications
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Robotics, Types of robots and their applications in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -59,14 +62,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Define robots and list types and uses.
-- **Key ideas (8 min):** A robot is a programmable machine that can perform tasks automatically. Types include industrial robots, service robots, and educational robots.
-- **Guided demo (6 min):** Show short examples of robots in factories, hospitals, and homes.
-- **Hands-on practice (6 min):** Students classify 6 examples into robot types.
-- **Check for understanding (3 min):** What makes a machine a robot?
-
-![Lesson Visual](/content/images/grade5/week17.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Robotics, Types of robots and their applications' and 'not related'.
@@ -75,6 +70,11 @@ duration: "40 minutes"
 - Students: Share answers with a partner.
 - Practice: Formulate the definition of a robot.
 - Practice: To give examples of types of robots and their fields of application;.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.

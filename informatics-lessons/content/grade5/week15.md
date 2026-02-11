@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 5
 week: 15
+section: "5-A"
+date: "2025-12-16"
+day: "Tuesday"
 topic: "Comparison of raster and vector images. EXAM No. 2."
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 5 - Week 15: Comparison of raster and vector images. EXAM No. 2.
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Comparison of raster and vector images. EXAM No. 2. in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -58,14 +61,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Review raster vs vector for the exam.
-- **Key ideas (8 min):** Raster = pixels, vector = paths. Use cases: photos vs logos.
-- **Guided demo (6 min):** Compare two images of the same size and zoom in.
-- **Hands-on practice (6 min):** Exam-style questions: choose best format for given tasks.
-- **Check for understanding (3 min):** Two quick exam items with answers.
-
-![Lesson Visual](/content/images/grade5/week15.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Comparison of raster and vector images. EXAM No. 2.' and 'not related'.
@@ -73,6 +68,11 @@ duration: "40 minutes"
 - Teacher: Provide concrete examples and model one classification.
 - Students: Share answers with a partner.
 - Practice: Evaluate the advantages and disadvantages of raster and vector graphics.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.

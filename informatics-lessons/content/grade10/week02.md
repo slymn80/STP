@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 10
 week: 2
+section: "10-A, 10-B, 10-C, 10-D"
+date: "10-A 09.09.2025 (Tuesday); 10-B 09.09.2025 (Tuesday); 10-C 11.09.2025 (Thursday); 10-D 11.09.2025 (Thursday)"
+day: ""
 topic: "Computer Hardware"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 10 - Week 2: Computer Hardware
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Computer Hardware in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -60,14 +63,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Explain network addressing and how DNS turns names into addresses.
-- **IP addressing (9 min):** Define IPv4 as a 32-bit address and show dotted-decimal format. Explain network vs host parts and the idea of a default gateway for reaching other networks. Use a simple example: device IP, subnet, gateway.
-- **DNS basics (7 min):** Explain the DNS hierarchy, the role of a resolver, and authoritative name servers. Walk through a lookup: client asks resolver, resolver queries authoritative servers, response is cached.
-- **Guided practice (5 min):** Students map a sample domain name to an IP and identify which component (resolver, server, cache) does what.
-- **Check for understanding (2 min):** Short exit ticket: define DNS, define IP address, name one reason caching is helpful.
-
-![Lesson Visual](/content/images/grade10/week02.png)
 
 ## Practice Activity
 - Short response: Describe a scenario where Computer Hardware is important.
@@ -76,6 +71,11 @@ duration: "40 minutes"
 - Students: Work in pairs and compare answers.
 - Apply: Network Addressing.
 - Apply: Domain Name Systems (DNS).
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.
@@ -90,3 +90,5 @@ duration: "40 minutes"
 - Which part of Computer Hardware was easiest for students to understand?
 - Which activity best supported learning objectives?
 - What should be adjusted for next time?
+
+

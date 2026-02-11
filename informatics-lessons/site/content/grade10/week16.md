@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 10
 week: 16
+section: "10-A, 10-B, 10-C, 10-D"
+date: "10-A 23.12.2025 (Tuesday); 10-B 23.12.2025 (Tuesday); 10-C 25.12.2025 (Thursday); 10-D 25.12.2025 (Thursday)"
+day: ""
 topic: "Software"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 10 - Week 16: Software
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Software in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -60,14 +63,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Describe database fields and keys.
-- **Fields and records (7 min):** Column (field) vs row (record). Data types and why they matter.
-- **Keys (9 min):** Primary key as unique identifier, foreign key for relationships. Show a simple two-table example (Students, Classes).
-- **Guided practice (5 min):** Students identify possible primary keys and foreign keys in a sample dataset.
-- **Check for understanding (2 min):** What makes a good primary key?
-
-![Lesson Visual](/content/images/grade10/week16.png)
 
 ## Practice Activity
 - Short response: Describe a scenario where Software is important.
@@ -76,6 +71,11 @@ duration: "40 minutes"
 - Students: Work in pairs and compare answers.
 - Apply: Overview of Database Fields.
 - Apply: Keys in Database.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.
@@ -90,3 +90,5 @@ duration: "40 minutes"
 - Which part of Software was easiest for students to understand?
 - Which activity best supported learning objectives?
 - What should be adjusted for next time?
+
+

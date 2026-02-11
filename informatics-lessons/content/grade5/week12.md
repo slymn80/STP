@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 5
 week: 12
+section: "5-A"
+date: "2025-11-25"
+day: "Tuesday"
 topic: "Bitmap image processing"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 5 - Week 12: Bitmap image processing
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Bitmap image processing in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -58,14 +61,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Continue bitmap processing skills.
-- **Key ideas (8 min):** Simple effects: blur, sharpen, and color adjustments. Use undo to fix mistakes.
-- **Guided demo (6 min):** Apply a filter and compare before/after.
-- **Hands-on practice (6 min):** Students apply one effect and explain why.
-- **Check for understanding (3 min):** When would you use blur or sharpen?
-
-![Lesson Visual](/content/images/grade5/week12.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Bitmap image processing' and 'not related'.
@@ -73,6 +68,11 @@ duration: "40 minutes"
 - Teacher: Provide concrete examples and model one classification.
 - Students: Share answers with a partner.
 - Practice: Create and edit bitmap images.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.

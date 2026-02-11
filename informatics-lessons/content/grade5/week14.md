@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 5
 week: 14
+section: "5-A"
+date: "2025-12-09"
+day: "Tuesday"
 topic: "Working with curves"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 5 - Week 14: Working with curves
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Working with curves in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -58,14 +61,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Work with curves in vector graphics.
-- **Key ideas (8 min):** Curves are made by points (nodes) and handles. Moving handles changes the curve shape.
-- **Guided demo (6 min):** Create a smooth curve and adjust its handles.
-- **Hands-on practice (6 min):** Students draw a simple wave or leaf using curves.
-- **Check for understanding (3 min):** What do handles control?
-
-![Lesson Visual](/content/images/grade5/week14.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Working with curves' and 'not related'.
@@ -73,6 +68,11 @@ duration: "40 minutes"
 - Teacher: Provide concrete examples and model one classification.
 - Students: Share answers with a partner.
 - Practice: Create and edit vector images.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.

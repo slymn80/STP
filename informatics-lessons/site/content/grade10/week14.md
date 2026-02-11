@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 10
 week: 14
+section: "10-A, 10-B, 10-C, 10-D"
+date: "10-A 09.12.2025 (Tuesday); 10-B 09.12.2025 (Tuesday); 10-C 11.12.2025 (Thursday); 10-D 11.12.2025 (Thursday)"
+day: ""
 topic: "Programming"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 10 - Week 14: Programming
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Programming in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -59,14 +62,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Apply Breadth-First Search (BFS) on graphs.
-- **BFS idea (8 min):** Explore neighbors level by level using a queue. BFS finds shortest path in unweighted graphs.
-- **Step-by-step example (7 min):** Walk BFS on a small graph and show layer expansion.
-- **Guided practice (6 min):** Students run BFS on a given graph and identify shortest path length.
-- **Check for understanding (2 min):** Identify data structure used by BFS and why it matters.
-
-![Lesson Visual](/content/images/grade10/week14.png)
 
 ## Practice Activity
 - Short response: Describe a scenario where Programming is important.
@@ -74,6 +69,11 @@ duration: "40 minutes"
 - Teacher: Circulate, prompt with guiding questions, and correct misconceptions.
 - Students: Work in pairs and compare answers.
 - Apply: BFS Algorithms.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.
@@ -88,3 +88,5 @@ duration: "40 minutes"
 - Which part of Programming was easiest for students to understand?
 - Which activity best supported learning objectives?
 - What should be adjusted for next time?
+
+

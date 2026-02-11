@@ -64,19 +64,36 @@ select {
   font-family: inherit;
 }
 
-#downloadPdf {
+#downloadPdf,
+#downloadDocx,
+#downloadKsp {
   align-self: flex-end;
   padding: 10px 14px;
+  height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   border-radius: 8px;
   border: 1px solid var(--line);
   background: #fff1de;
   color: var(--accent-dark);
   font-weight: 600;
   cursor: pointer;
+  white-space: nowrap;
 }
 
-#downloadPdf:hover {
+#downloadPdf:hover,
+#downloadDocx:hover,
+#downloadKsp:hover {
   background: #ffe3c3;
+}
+
+#downloadDocx {
+  background: #fffaf3;
+}
+
+#downloadDocx:hover {
+  background: #f7ead7;
 }
 
 .container {

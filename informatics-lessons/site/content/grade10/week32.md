@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 10
 week: 32
+section: "10-A, 10-B, 10-C, 10-D"
+date: "10-A 05.05.2026 (Tuesday); 10-B 05.05.2026 (Tuesday); 10-C 07.05.2026 (Thursday); 10-D 07.05.2026 (Thursday)"
+day: ""
 topic: "Web Programming"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 10 - Week 32: Web Programming
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Web Programming in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -59,14 +62,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Use JavaScript operators correctly.
-- **Operators overview (9 min):** Arithmetic, comparison, and logical operators. Emphasize `===` vs `==`.
-- **Expressions (7 min):** Operator precedence and using parentheses for clarity.
-- **Guided practice (5 min):** Students evaluate expressions and explain results.
-- **Check for understanding (2 min):** Identify correct operator for a given condition.
-
-![Lesson Visual](/content/images/grade10/week32.png)
 
 ## Practice Activity
 - Short response: Describe a scenario where Web Programming is important.
@@ -74,6 +69,11 @@ duration: "40 minutes"
 - Teacher: Circulate, prompt with guiding questions, and correct misconceptions.
 - Students: Work in pairs and compare answers.
 - Apply: Javascript Operators.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.
@@ -88,3 +88,5 @@ duration: "40 minutes"
 - Which part of Web Programming was easiest for students to understand?
 - Which activity best supported learning objectives?
 - What should be adjusted for next time?
+
+

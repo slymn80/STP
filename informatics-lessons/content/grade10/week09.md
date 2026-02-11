@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 10
 week: 9
+section: "10-A, 10-B, 10-C, 10-D"
+date: "10-A 04.11.2025 (Tuesday); 10-B 04.11.2025 (Tuesday); 10-C 06.11.2025 (Thursday); 10-D 06.11.2025 (Thursday)"
+day: ""
 topic: "Programming"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 10 - Week 9: Programming
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Programming in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -60,14 +63,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Use functions to organize code and apply built-in functions.
-- **Functions in Python (9 min):** Define a function, parameters, return values, and scope. Show how to call functions and reuse code.
-- **Predefined functions (6 min):** Demonstrate `len()`, `type()`, `sum()`, `min()`, `max()`, and `sorted()`.
-- **Guided practice (6 min):** Students write a function to compute average and use built-ins to summarize a list.
-- **Check for understanding (2 min):** Identify inputs/outputs for a small function and predict results.
-
-![Lesson Visual](/content/images/grade10/week09.png)
 
 ## Practice Activity
 - Short response: Describe a scenario where Programming is important.
@@ -76,6 +71,11 @@ duration: "40 minutes"
 - Students: Work in pairs and compare answers.
 - Apply: Functions in Python.
 - Apply: Predefined Functions.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.
@@ -90,3 +90,5 @@ duration: "40 minutes"
 - Which part of Programming was easiest for students to understand?
 - Which activity best supported learning objectives?
 - What should be adjusted for next time?
+
+

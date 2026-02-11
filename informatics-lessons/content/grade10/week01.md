@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 10
 week: 1
+section: "10-A, 10-B, 10-C, 10-D"
+date: "10-A 02.09.2025 (Tuesday); 10-B 02.09.2025 (Tuesday); 10-C 04.09.2025 (Thursday); 10-D 04.09.2025 (Thursday)"
+day: ""
 topic: "Computer Hardware"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 10 - Week 1: Computer Hardware
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Computer Hardware in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -60,14 +63,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Define computer hardware and focus on how network devices and cabling connect a PC to a LAN.
-- **Core components (8 min):** Identify NIC, switch, router, and wireless access point. Explain that a switch connects devices within a LAN while a router connects different networks and uses IP addressing to move traffic between them. Clarify the role of an access point as the bridge between wireless devices and the wired LAN.
-- **Cables and connectors (6 min):** Contrast twisted-pair Ethernet cables (Cat5e vs Cat6) and explain why pairs are twisted to reduce interference. Identify the common 8P8C (RJ-45) connector and show how a patch cable connects a PC to a switch port.
-- **Guided practice (6 min):** Students label a simple diagram (PC -> switch -> router -> ISP). Then match each device to its function (connects devices, routes between networks, provides Wi-Fi).
-- **Check for understanding (3 min):** Quick questions: Which device forwards traffic between networks? Which cable connects a PC to a switch? What is the NIC for?
-
-![Lesson Visual](/content/images/grade10/week01.png)
 
 ## Practice Activity
 - Short response: Describe a scenario where Computer Hardware is important.
@@ -76,6 +71,11 @@ duration: "40 minutes"
 - Students: Work in pairs and compare answers.
 - Apply: Network Components.
 - Apply: Cables and Connectors.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.
@@ -90,3 +90,5 @@ duration: "40 minutes"
 - Which part of Computer Hardware was easiest for students to understand?
 - Which activity best supported learning objectives?
 - What should be adjusted for next time?
+
+

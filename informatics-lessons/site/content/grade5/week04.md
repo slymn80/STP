@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 5
 week: 4
+section: "5-A"
+date: "2025-09-23"
+day: "Tuesday"
 topic: "Information encryption"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 5 - Week 4: Information encryption
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Information encryption in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -58,14 +61,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Practice decoding and compare different simple codes.
-- **Key ideas (8 min):** Decoding reverses the encryption. Substitution swaps letters using a key. Keep the key safe.
-- **Guided demo (6 min):** Use a simple substitution key to decode a short message.
-- **Hands-on practice (6 min):** Students create a key and encode a message for a partner to decode.
-- **Check for understanding (3 min):** What happens if you lose the key?
-
-![Lesson Visual](/content/images/grade5/week04.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Information encryption' and 'not related'.
@@ -73,6 +68,11 @@ duration: "40 minutes"
 - Teacher: Provide concrete examples and model one classification.
 - Students: Share answers with a partner.
 - Practice: Encode and decode text information.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.

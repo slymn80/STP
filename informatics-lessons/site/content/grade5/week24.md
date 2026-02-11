@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 5
 week: 24
+section: "5-A"
+date: "2026-03-03"
+day: "Tuesday"
 topic: "Robo-sumo."
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 5 - Week 24: Robo-sumo.
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Robo-sumo. in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -58,14 +61,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Use ultrasonic and color sensors for robo-sumo.
-- **Key ideas (8 min):** Ultrasonic sensors measure distance by echo. Color sensors detect the ring edge. Combine them to find opponents and stay inside the ring.
-- **Guided demo (6 min):** Show a simple strategy: scan, charge, retreat at edge.
-- **Hands-on practice (6 min):** Students plan a behavior flowchart for sumo.
-- **Check for understanding (3 min):** What sensor prevents the robot from leaving the ring?
-
-![Lesson Visual](/content/images/grade5/week24.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Robo-sumo.' and 'not related'.
@@ -73,6 +68,11 @@ duration: "40 minutes"
 - Teacher: Provide concrete examples and model one classification.
 - Students: Share answers with a partner.
 - Practice: Use an ultrasound sensor to locate an object;Use a color sensor to organize the robot's movement.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.

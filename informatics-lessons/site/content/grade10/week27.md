@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 10
 week: 27
+section: "10-A, 10-B, 10-C, 10-D"
+date: "10-A 31.03.2026 (Tuesday); 10-B 31.03.2026 (Tuesday); 10-C 02.04.2026 (Thursday); 10-D 02.04.2026 (Thursday)"
+day: ""
 topic: "Web Programming"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 10 - Week 27: Web Programming
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Web Programming in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -62,14 +65,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Introduce web programming and basic site structure.
-- **Web basics (8 min):** HTML for structure, CSS for styling, JavaScript for behavior. Show a simple HTML page layout with head and body.
-- **Site structure (7 min):** Use semantic sections (header, nav, main, footer) and why they matter.
-- **Guided practice (6 min):** Students sketch a simple site layout and list needed HTML elements.
-- **Check for understanding (2 min):** Identify which technology does structure vs styling vs behavior.
-
-![Lesson Visual](/content/images/grade10/week27.png)
 
 ## Practice Activity
 - Short response: Describe a scenario where Web Programming is important.
@@ -78,6 +73,11 @@ duration: "40 minutes"
 - Students: Work in pairs and compare answers.
 - Apply: Into to Web Programming.
 - Apply: Web Site Structure.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.
@@ -92,3 +92,5 @@ duration: "40 minutes"
 - Which part of Web Programming was easiest for students to understand?
 - Which activity best supported learning objectives?
 - What should be adjusted for next time?
+
+

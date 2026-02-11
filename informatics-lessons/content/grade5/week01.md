@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 5
 week: 1
+section: "5-A"
+date: "2025-09-02"
+day: "Tuesday"
 topic: "Presentation of information, Information around us"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 5 - Week 1: Presentation of information, Information around us
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Presentation of information, Information around us in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -58,14 +61,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Identify different types of information and the forms they take in daily life.
-- **Key ideas (8 min):** Information can be text, numbers, images, sound, or video. The same idea can be shown in different forms (a story as a text, audio, or a picture). Give simple classroom examples.
-- **Guided demo (6 min):** Show one topic in three forms (short text, picture, and spoken sentence). Ask students to name the form and what stays the same.
-- **Hands-on practice (6 min):** Students collect 5 examples from the classroom and label each as text, image, sound, or video.
-- **Check for understanding (3 min):** Quick questions: What is information? Name two forms of information and give examples.
-
-![Lesson Visual](/content/images/grade5/week01.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Presentation of information, Information around us' and 'not related'.
@@ -73,6 +68,11 @@ duration: "40 minutes"
 - Teacher: Provide concrete examples and model one classification.
 - Students: Share answers with a partner.
 - Practice: Give examples of different types of information and present information in different forms.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.

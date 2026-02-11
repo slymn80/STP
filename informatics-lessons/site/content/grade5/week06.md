@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 5
 week: 6
+section: "5-A"
+date: "2025-10-07"
+day: "Tuesday"
 topic: "Representation of graphical information in binary code of EXAM No. 1."
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 5 - Week 6: Representation of graphical information in binary code of EXAM No. 1.
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Representation of graphical information in binary code of EXAM No. 1. in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -58,14 +61,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Review binary and pixels for the exam.
-- **Key ideas (8 min):** Images are made of pixels, each stored as binary values. More pixels means more detail.
-- **Guided demo (6 min):** Show a pixel grid and how changing bits changes the picture.
-- **Hands-on practice (6 min):** Short quiz practice: convert numbers to binary and label a pixel grid.
-- **Check for understanding (3 min):** Two exam-style questions and quick answers.
-
-![Lesson Visual](/content/images/grade5/week06.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Representation of graphical information in binary code of EXAM No. 1.' and 'not related'.
@@ -73,6 +68,11 @@ duration: "40 minutes"
 - Teacher: Provide concrete examples and model one classification.
 - Students: Share answers with a partner.
 - Practice: Explain that all information for the computer is presented in binary form..
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.

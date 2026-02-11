@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 5
 week: 21
+section: "5-A"
+date: "2026-02-10"
+day: "Tuesday"
 topic: "Robot turns. Practical work"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 5 - Week 21: Robot turns. Practical work
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Robot turns. Practical work in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -58,14 +61,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Practice accurate turns and calibration.
-- **Key ideas (8 min):** Calibration sets the zero point. Small errors can accumulate, so test and adjust.
-- **Guided demo (6 min):** Demonstrate calibration and a repeatable turn.
-- **Hands-on practice (6 min):** Students test a 90-degree turn and note error.
-- **Check for understanding (3 min):** Why is calibration important?
-
-![Lesson Visual](/content/images/grade5/week21.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Robot turns. Practical work' and 'not related'.
@@ -73,6 +68,11 @@ duration: "40 minutes"
 - Teacher: Provide concrete examples and model one classification.
 - Students: Share answers with a partner.
 - Practice: Create programs to rotate the robot by preset degrees;.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.

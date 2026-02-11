@@ -6,7 +6,7 @@
   <title>Informatics Lessons</title>
   <link rel="icon" href="favicon.ico" />
   <link rel="apple-touch-icon" href="favicon.png" />
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css?v=4" />
 </head>
 <body>
   <header class="hero">
@@ -26,6 +26,8 @@
           <select id="weekSelect"></select>
         </label>
         <button id="downloadPdf" type="button">Download PDF</button>
+        <button id="downloadDocx" type="button">Download Word</button>
+        <button id="downloadKsp" type="button">Download КСП</button>
       </div>
     </div>
   </header>
@@ -47,6 +49,9 @@
   <script src="vendor/marked.min.js"></script>
   <script src="vendor/html2canvas.min.js"></script>
   <script src="vendor/jspdf.umd.min.js"></script>
-  <script src="app.js"></script>
+  <script src="vendor/html-docx.min.js"></script>
+  <script src="vendor/FileSaver.min.js"></script>
+  <script src="vendor/jszip.min.js"></script>
+  <script src="app.js?v=15"></script>
 </body>
 </html>

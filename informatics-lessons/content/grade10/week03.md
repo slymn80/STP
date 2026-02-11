@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 10
 week: 3
+section: "10-A, 10-B, 10-C, 10-D"
+date: "10-A 16.09.2025 (Tuesday); 10-B 16.09.2025 (Tuesday); 10-C 18.09.2025 (Thursday); 10-D 18.09.2025 (Thursday)"
+day: ""
 topic: "Computer Hardware"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 10 - Week 3: Computer Hardware
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Computer Hardware in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -62,14 +65,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Understand the CIA triad and apply it to real systems.
-- **CIA definitions (8 min):** Confidentiality means preventing unauthorized disclosure. Integrity means preventing unauthorized changes to data or systems. Availability means systems work promptly for authorized users.
-- **Examples (7 min):** Map each element to a school system: confidentiality for student records, integrity for grades, availability for the learning platform during class.
-- **Threats and controls (6 min):** Connect threats to each element (data leak, tampering, outage) and give one control for each (access control, checksums/audit, redundancy/backup).
-- **Check for understanding (2 min):** Students classify three scenarios as C, I, or A and explain why.
-
-![Lesson Visual](/content/images/grade10/week03.png)
 
 ## Practice Activity
 - Short response: Describe a scenario where Computer Hardware is important.
@@ -78,6 +73,11 @@ duration: "40 minutes"
 - Students: Work in pairs and compare answers.
 - Apply: The CIA TRIAD: Confidentiality.
 - Apply: Integrity.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.
@@ -92,3 +92,5 @@ duration: "40 minutes"
 - Which part of Computer Hardware was easiest for students to understand?
 - Which activity best supported learning objectives?
 - What should be adjusted for next time?
+
+

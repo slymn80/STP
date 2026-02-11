@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 5
 week: 29
+section: "5-A"
+date: "2026-04-14"
+day: "Tuesday"
 topic: "Dangers of working on the Internet"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 5 - Week 29: Dangers of working on the Internet
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Dangers of working on the Internet in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -58,14 +61,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Understand internet dangers and copyright rules.
-- **Key ideas (8 min):** Copying someone else's work without permission is wrong. Always give credit and ask before using images or text.
-- **Guided demo (6 min):** Show correct vs incorrect use of an image with credit.
-- **Hands-on practice (6 min):** Students practice adding a source line to a project.
-- **Check for understanding (3 min):** What is plagiarism?
-
-![Lesson Visual](/content/images/grade5/week29.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Dangers of working on the Internet' and 'not related'.
@@ -73,6 +68,11 @@ duration: "40 minutes"
 - Teacher: Provide concrete examples and model one classification.
 - Students: Share answers with a partner.
 - Practice: To talk about the illegality of copying someone else's work.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.

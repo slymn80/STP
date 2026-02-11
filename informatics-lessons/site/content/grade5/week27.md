@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 5
 week: 27
+section: "5-A"
+date: "2026-03-31"
+day: "Tuesday"
 topic: "Computer and Security, How not to hurt yourself when working at a computer"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 5 - Week 27: Computer and Security, How not to hurt yourself when working at a computer
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Computer and Security, How not to hurt yourself when working at a computer in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -58,14 +61,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Learn safe computer habits and ergonomics.
-- **Key ideas (8 min):** Good posture, screen height, relaxed shoulders, and neutral wrists. Take short breaks to rest eyes and hands.
-- **Guided demo (6 min):** Demonstrate correct sitting position and monitor distance.
-- **Hands-on practice (6 min):** Students adjust their workstation and list 3 safety rules.
-- **Check for understanding (3 min):** Name two habits that protect your eyes and hands.
-
-![Lesson Visual](/content/images/grade5/week27.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Computer and Security, How not to hurt yourself when working at a computer' and 'not related'.
@@ -73,6 +68,11 @@ duration: "40 minutes"
 - Teacher: Provide concrete examples and model one classification.
 - Students: Share answers with a partner.
 - Practice: To talk about the consequences of violating safety regulations.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.

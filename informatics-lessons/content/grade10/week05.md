@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 10
 week: 5
+section: "10-A, 10-B, 10-C, 10-D"
+date: "10-A 30.09.2025 (Tuesday); 10-B 30.09.2025 (Tuesday); 10-C 02.10.2025 (Thursday); 10-D 02.10.2025 (Thursday)"
+day: ""
 topic: "Computer Hardware"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 10 - Week 5: Computer Hardware
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Computer Hardware in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -62,14 +65,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Compare authentication methods and apply good password practices.
-- **Authentication types (9 min):** Passwords (something you know), biometrics (something you are), and multi-factor authentication (combine factors). Explain why MFA improves security.
-- **Password guidance (6 min):** Use long passphrases, avoid reused passwords, and use a password manager. Emphasize secure storage (hashed and salted by systems).
-- **Biometrics (6 min):** Pros (convenience) and limits (false matches, privacy). Explain that biometrics are usually paired with another factor for higher assurance.
-- **Check for understanding (2 min):** Students choose the best method for three scenarios and justify their choices.
-
-![Lesson Visual](/content/images/grade10/week05.png)
 
 ## Practice Activity
 - Short response: Describe a scenario where Computer Hardware is important.
@@ -78,6 +73,11 @@ duration: "40 minutes"
 - Students: Work in pairs and compare answers.
 - Apply: Authentication.
 - Apply: Password Authentication.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.
@@ -92,3 +92,5 @@ duration: "40 minutes"
 - Which part of Computer Hardware was easiest for students to understand?
 - Which activity best supported learning objectives?
 - What should be adjusted for next time?
+
+

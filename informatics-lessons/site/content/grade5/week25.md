@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 5
 week: 25
+section: "5-A"
+date: "2026-03-10"
+day: "Tuesday"
 topic: "Robo-sumo. EXAM No. 3"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 5 - Week 25: Robo-sumo. EXAM No. 3
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Robo-sumo. EXAM No. 3 in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -58,14 +61,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Review robo-sumo strategies for the exam.
-- **Key ideas (8 min):** Arena rules, start delay, edge detection, and attack strategy. Fair play and safety.
-- **Guided demo (6 min):** Analyze a sample match and discuss decisions.
-- **Hands-on practice (6 min):** Short quiz and strategy sketch.
-- **Check for understanding (3 min):** Two exam questions and quick answers.
-
-![Lesson Visual](/content/images/grade5/week25.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Robo-sumo. EXAM No. 3' and 'not related'.
@@ -73,6 +68,11 @@ duration: "40 minutes"
 - Teacher: Provide concrete examples and model one classification.
 - Students: Share answers with a partner.
 - Practice: Use an ultrasound sensor to locate an object;Use a color sensor to organize the robot's movement.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.

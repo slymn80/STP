@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 5
 week: 31
+section: "5-A"
+date: "2026-04-28"
+day: "Tuesday"
 topic: "How to protect your computer data"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 5 - Week 31: How to protect your computer data
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define How to protect your computer data in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -60,14 +63,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Protect files and share safely.
-- **Key ideas (8 min):** Use passwords for documents, control who can edit or view, and keep backups.
-- **Guided demo (6 min):** Show how sharing settings change who can open a file.
-- **Hands-on practice (6 min):** Students decide which files should be public vs private.
-- **Check for understanding (3 min):** What is the difference between view and edit access?
-
-![Lesson Visual](/content/images/grade5/week31.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to How to protect your computer data' and 'not related'.
@@ -76,6 +71,11 @@ duration: "40 minutes"
 - Students: Share answers with a partner.
 - Practice: Setting a password for documents;post.
 - Practice: Edit.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.

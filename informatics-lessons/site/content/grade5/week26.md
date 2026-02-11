@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 5
 week: 26
+section: "5-A"
+date: "2026-03-17"
+day: "Tuesday"
 topic: "Practical work"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 5 - Week 26: Practical work
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Practical work in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -58,14 +61,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Integrate sensors in a practical task.
-- **Key ideas (8 min):** Use ultrasonic sensor to detect objects and color sensor to keep position. Combine readings with if/else logic.
-- **Guided demo (6 min):** Show a simple combined logic example.
-- **Hands-on practice (6 min):** Students build or simulate a sensor-driven routine.
-- **Check for understanding (3 min):** Which sensor measures distance? Which detects the line?
-
-![Lesson Visual](/content/images/grade5/week26.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Practical work' and 'not related'.
@@ -73,6 +68,11 @@ duration: "40 minutes"
 - Teacher: Provide concrete examples and model one classification.
 - Students: Share answers with a partner.
 - Practice: Use an ultrasound sensor to locate an object;Use a color sensor to organize the robot's movement.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.

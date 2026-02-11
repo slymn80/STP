@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 5
 week: 34
+section: "5-A"
+date: "2026-05-19"
+day: "Tuesday"
 topic: "Implementation of mini-projects"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 5 - Week 34: Implementation of mini-projects
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Implementation of mini-projects in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -61,14 +64,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Complete and present mini-projects.
-- **Key ideas (8 min):** Plan, create, and share safely. Use clear titles, good layout, and correct credits.
-- **Guided demo (6 min):** Review a simple project rubric (content, safety, presentation).
-- **Hands-on practice (6 min):** Students finalize their mini-project and prepare a short presentation.
-- **Check for understanding (3 min):** What makes a digital project safe and well-organized?
-
-![Lesson Visual](/content/images/grade5/week34.png)
 
 ## Practice Activity
 - Classification: Sort examples into 'related to Implementation of mini-projects' and 'not related'.
@@ -77,6 +72,11 @@ duration: "40 minutes"
 - Students: Share answers with a partner.
 - Practice: Setting a password for documents;post.
 - Practice: Edit.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.

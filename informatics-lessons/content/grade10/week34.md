@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 10
 week: 34
+section: "10-A, 10-B, 10-C, 10-D"
+date: "10-A 19.05.2026 (Tuesday); 10-B 19.05.2026 (Tuesday); 10-C 21.05.2026 (Thursday); 10-D 21.05.2026 (Thursday)"
+day: ""
 topic: "Web Programming, Quiz"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 10 - Week 34: Web Programming, Quiz
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Web Programming, Quiz in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -59,14 +62,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Use loops to repeat actions in JavaScript.
-- **Loop types (9 min):** `for`, `while`, and `do...while` and when to use each.
-- **Loop patterns (7 min):** Counting, iterating over arrays, and preventing infinite loops.
-- **Guided practice (5 min):** Students write a loop to sum numbers 1..n.
-- **Check for understanding (2 min):** Identify loop output for a short code snippet.
-
-![Lesson Visual](/content/images/grade10/week34.png)
 
 ## Practice Activity
 - Short response: Describe a scenario where Web Programming, Quiz is important.
@@ -74,6 +69,11 @@ duration: "40 minutes"
 - Teacher: Circulate, prompt with guiding questions, and correct misconceptions.
 - Students: Work in pairs and compare answers.
 - Apply: Javascript Loop.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.
@@ -163,3 +163,5 @@ duration: "40 minutes"
 <li>B</li>
 </ol>
 </details>
+
+

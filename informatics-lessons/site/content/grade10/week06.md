@@ -4,8 +4,11 @@ subject: Informatics
 teacher: Süleyman Tongut
 grade: 10
 week: 6
+section: "10-A, 10-B, 10-C, 10-D"
+date: "10-A 07.10.2025 (Tuesday); 10-B 07.10.2025 (Tuesday); 10-C 09.10.2025 (Thursday); 10-D 09.10.2025 (Thursday)"
+day: ""
 topic: "Data Representation"
-duration: "40 minutes"
+duration: "45 minutes"
 ---
 # Grade 10 - Week 6: Data Representation
 ## Learning Objectives
@@ -35,7 +38,7 @@ duration: "40 minutes"
 
 ## Lesson Timeline
 - Introduction - 5 minutes
-- Main Activity - 25 minutes
+- Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
 ## Introduction (5 minutes)
@@ -49,7 +52,7 @@ duration: "40 minutes"
 - Teacher: Briefly model the key idea using a quick sketch or object.
 - Students: Share one example they know and explain why it fits.
 
-## Main Content (25 minutes)
+## Main Content (30 minutes)
 - Define Data Representation in clear terms.
 - Break down the key components or steps.
 - Show a short, concrete example.
@@ -61,14 +64,6 @@ duration: "40 minutes"
 - Teacher: Model the process step-by-step and check for understanding.
 - Students: Take brief notes and answer a quick concept check.
 
-### Detailed Topic Study
-- **Goal (2 min):** Use number systems and truth tables to represent data.
-- **Number systems (9 min):** Binary, decimal, and hexadecimal. Show conversion between bases and explain why powers of 2 are efficient for computers. Include a short binary addition with carry.
-- **Truth tables (7 min):** Define Boolean variables and create a truth table for AND, OR, and NOT. Connect truth tables to decision making in programs.
-- **Binary arithmetic (5 min):** Add and subtract simple 4-bit numbers; explain overflow in fixed width.
-- **Check for understanding (2 min):** Students convert one decimal to binary and complete a simple truth table.
-
-![Lesson Visual](/content/images/grade10/week06.png)
 
 ## Practice Activity
 - Short response: Describe a scenario where Data Representation is important.
@@ -77,6 +72,11 @@ duration: "40 minutes"
 - Students: Work in pairs and compare answers.
 - Apply: Number Systems.
 - Apply: Truth Table.
+
+## Wrap-up (10 minutes)
+- Quick recap: Students summarize the key idea in one sentence.
+- Exit question: Name one example related to the topic.
+- Teacher: Highlight common mistakes and confirm next steps.
 
 ## Assessment
 - Observation during activity.
@@ -91,3 +91,5 @@ duration: "40 minutes"
 - Which part of Data Representation was easiest for students to understand?
 - Which activity best supported learning objectives?
 - What should be adjusted for next time?
+
+
