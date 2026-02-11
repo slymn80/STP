@@ -1,0 +1,16 @@
+{
+  "name": "informatics-lessons",
+  "version": "1.0.0",
+  "description": "This project generates weekly Informatics lesson plans from the 2025-2026 annual plan Excel file, creates one educational image per week, and builds a static site to browse lessons by grade and week.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}

@@ -10,83 +10,71 @@ day: ""
 topic: "Computer Hardware"
 duration: "45 minutes"
 ---
+
 # Grade 10 - Week 4: Computer Hardware
 ## Learning Objectives
-- Explain Computer Hardware in clear, age-appropriate language.
-- Identify the key parts or steps of Computer Hardware.
-- Apply Computer Hardware to a real-life or classroom example.
-- Demonstrate: Security Measures When Working on the Network.
-- Analyze how Computer Hardware affects system design or problem solving.
+- Explain the core concepts of Computer Hardware using correct terminology.
+- Identify key components, roles, or stages related to Computer Hardware.
+- Analyze a real-world example where Computer Hardware is applied.
+- Compare two representations or approaches within Computer Hardware.
+- Apply Computer Hardware concepts to a short practical task or scenario.
 
 ## Assessment Criteria
-- Uses correct terminology when explaining Computer Hardware.
-- Completes the practice activity accurately.
-- Responds to oral questions with clear reasoning.
-- Shows understanding of: Security Measures When Working on the Network.
+- Uses technical vocabulary accurately in explanations.
+- Identifies correct components or stages of Computer Hardware.
+- Provides a valid real-world example and justification.
+- Completes the practice task with clear reasoning.
 
 ## Key Vocabulary
-- hardware: a key term related to Computer Hardware
-- security: a key term related to Computer Hardware
-- measures: a key term related to Computer Hardware
-- when: a key term related to Computer Hardware
-- working: a key term related to Computer Hardware
-- network: a key term related to Computer Hardware
-- input: data entered into a system
+- concepts: key ideas and definitions
+- components: parts that make up a system
+- process: steps that lead to a result
+- input: data or signals provided to a system
 - output: results produced by a system
-- process: steps that transform input to output
-- system: connected parts working together
+- performance: speed, reliability, or efficiency
+- security: protection of data and systems
+- evaluation: checking correctness and quality
 
 ## Lesson Timeline
 - Introduction - 5 minutes
 - Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
+![Lesson visual](/content/images/grade10/week04.png)
+
 ## Introduction (5 minutes)
-- Introduce Computer Hardware and link it to everyday technology.
-- Warm-up questions:
-- - Where do we encounter this idea in daily life?
-- - How does this help computers work correctly?
-- Real-life examples:
-- - A classroom example connected to Computer Hardware.
-- - Link to: Security Measures When Working on the Network.
-- Teacher: Briefly model the key idea using a quick sketch or object.
-- Students: Share one example they know and explain why it fits.
+- Starter: Present a short real-world case related to Computer Hardware (news, product, or school system).
+- Ask guiding questions to activate prior knowledge.
+- Teacher: Define Computer Hardware and outline the lesson goals.
+- Students: Share what they already know or have used.
 
 ## Main Content (30 minutes)
-- Define Computer Hardware in clear terms.
-- Break down the key components or steps.
-- Show a short, concrete example.
-- Connect to prior knowledge from earlier lessons.
-- Focus point: Security Measures When Working on the Network.
-- Discuss a practical application or case study.
-- Teacher: Model the process step-by-step and check for understanding.
-- Students: Take brief notes and answer a quick concept check.
-
+- Explain the main concepts and components of Computer Hardware with a clear diagram.
+- Show a real-world example and map it to the concepts.
+- Discuss advantages, limitations, or common issues.
+- Teacher: Model a simple analysis or walkthrough.
+- Students: Take notes and answer quick concept checks.
 
 ## Practice Activity
-- Short response: Describe a scenario where Computer Hardware is important.
-- Matching: Pair terms with their definitions.
-- Teacher: Circulate, prompt with guiding questions, and correct misconceptions.
-- Students: Work in pairs and compare answers.
-- Apply: Security Measures When Working on the Network.
+- Case task: Students analyze a short scenario and identify how Computer Hardware is used.
+- Small group: Build a mini summary (3-4 bullet points) of key ideas.
+- Teacher: Provide feedback and clarify misconceptions.
 
 ## Wrap-up (10 minutes)
-- Quick recap: Students summarize the key idea in one sentence.
-- Exit question: Name one example related to the topic.
-- Teacher: Highlight common mistakes and confirm next steps.
+- Students summarize the key idea in one sentence.
+- Exit ticket: Give one example or application of Computer Hardware.
+- Teacher: Highlight common mistakes and preview the next topic.
 
 ## Assessment
-- Observation during activity.
-- Oral Q&A: Students explain one part of Computer Hardware.
-- Quick written check: 3 short questions.
-- Mini rubric: 3 = accurate and complete, 2 = mostly correct, 1 = needs support
+- Observation during discussion and practice.
+- Short written check: 3-5 questions on key concepts.
+- Oral Q&A on real-world application.
 
 ## Homework
-- Write a short paragraph about Computer Hardware using at least 4 vocabulary terms.
+- Find a real-world case where Computer Hardware is used and write a 150-200 word summary.
+- Create a one-page study sheet with definitions, components, and one diagram of Computer Hardware.
 
 ## Teacher Reflection
-- Which part of Computer Hardware was easiest for students to understand?
-- Which activity best supported learning objectives?
-- What should be adjusted for next time?
-
-
+- Which concept was most challenging for students?
+- Which example worked best to explain Computer Hardware?
+- What should be improved for the next lesson?

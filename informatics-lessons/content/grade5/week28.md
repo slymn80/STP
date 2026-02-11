@@ -10,80 +10,76 @@ day: "Tuesday"
 topic: "Digital media"
 duration: "45 minutes"
 ---
+
 # Grade 5 - Week 28: Digital media
 ## Learning Objectives
-- Explain Digital media in clear, age-appropriate language.
-- Identify the key parts or steps of Digital media.
-- Apply Digital media to a real-life or classroom example.
-- Demonstrate: Characterize digital media.
-- Use Digital media vocabulary accurately in short explanations.
+- Distinguish information from data using simple classroom examples.
+- Identify at least four forms of information (text, image, sound, numbers, video).
+- Match a real-world message to multiple forms of presentation.
+- Use key vocabulary in short explanations about Digital media.
+- Explain why the same idea can be shown in different formats.
 
 ## Assessment Criteria
-- Uses correct terminology when explaining Digital media.
-- Completes the practice activity accurately.
-- Responds to oral questions with clear reasoning.
-- Shows understanding of: characterize digital media.
+- Correctly classifies examples into information forms with minimal errors.
+- Gives at least two real-life examples related to Digital media.
+- Uses key terms accurately when answering oral questions.
+- Completes the practice task and labels each example clearly.
 
 ## Key Vocabulary
-- digital: a key term related to Digital media
-- media: a key term related to Digital media
-- characterize: a key term related to Digital media
-- digital: a key term related to Digital media
-- media: a key term related to Digital media
+- information: a message that can be understood
+- data: raw facts or symbols
+- text: written words
+- image: pictures or drawings
+- sound: spoken words or audio
+- numbers: values used to measure or count
 - input: data entered into a system
 - output: results produced by a system
 - process: steps that transform input to output
 - system: connected parts working together
-- accuracy: being correct or free of errors
 
 ## Lesson Timeline
 - Introduction - 5 minutes
 - Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
+![Lesson visual](/content/images/grade5/week28.png)
+
 ## Introduction (5 minutes)
-- Introduce Digital media and link it to everyday technology.
-- Warm-up questions:
-- - Where do we encounter this idea in daily life?
-- - How does this help computers work correctly?
-- Real-life examples:
-- - A classroom example connected to Digital media.
-- - Link to: characterize digital media.
-- Teacher: Briefly model the key idea using a quick sketch or object.
-- Students: Share one example they know and explain why it fits.
+- Hook: Show a simple message in two or three forms (written note, picture, spoken sentence).
+- Ask: What is the same? What is different?
+- Connect to daily life: announcements, signs, phone notifications, or classroom rules.
+- Teacher: Define Digital media with a simple example.
+- Students: Share one place they see information today.
 
 ## Main Content (30 minutes)
-- Define Digital media in clear terms.
-- Break down the key components or steps.
-- Show a short, concrete example.
-- Connect to prior knowledge from earlier lessons.
-- Focus point: Characterize digital media.
-- Teacher: Model the process step-by-step and check for understanding.
-- Students: Take brief notes and answer a quick concept check.
-
+- Explain the idea: Digital media can be presented in different forms that keep the same meaning.
+- Show examples: weather (icon, text, number), school rules (poster, spoken reminder).
+- Introduce forms: text, numbers, images, sound, video with one example each.
+- Mini-demo: Take one message and show it as text, picture, and spoken message.
+- Link to systems: input ? process ? output using a simple classroom example.
+- Students: Identify the form of each example shown on the board.
 
 ## Practice Activity
-- Classification: Sort examples into 'related to Digital media' and 'not related'.
-- Short response: Write two sentences using key vocabulary.
-- Teacher: Provide concrete examples and model one classification.
-- Students: Share answers with a partner.
-- Practice: Characterize digital media.
+- Sorting task: Students label examples as text, image, sound, number, or video.
+- Pair share: Compare labels and explain one choice to a partner.
+- Teacher: Review two examples together and correct misconceptions.
+- Extension: Students add two examples from their own experience.
 
 ## Wrap-up (10 minutes)
-- Quick recap: Students summarize the key idea in one sentence.
-- Exit question: Name one example related to the topic.
-- Teacher: Highlight common mistakes and confirm next steps.
+- Quick recap: Students state one form of information and give an example.
+- Exit question: Why can the same idea be shown in different ways?
+- Teacher: Summarize key points and preview the next lesson.
 
 ## Assessment
-- Observation during activity.
-- Oral Q&A: Students explain one part of Digital media.
-- Quick written check: 3 short questions.
-- Mini rubric: 3 = accurate and complete, 2 = mostly correct, 1 = needs support
+- Observation during sorting task.
+- Oral Q&A: Students define Digital media and name two forms with examples.
+- Quick check: 3 short questions (match example to form).
 
 ## Homework
-- Write a short paragraph about Digital media using at least 4 vocabulary terms.
+- Find 3 real-life examples of information at home or school and write 1 sentence for each.
+- Create a small poster that shows the same idea in two different forms (text + picture).
 
 ## Teacher Reflection
-- Which part of Digital media was easiest for students to understand?
-- Which activity best supported learning objectives?
-- What should be adjusted for next time?
+- Which examples were easiest for students to classify?
+- Which form (text/image/sound/number/video) needs more practice?
+- What should be adjusted for the next lesson?

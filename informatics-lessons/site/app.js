@@ -1,4 +1,4 @@
-﻿const gradeSelect = document.getElementById("gradeSelect");
+const gradeSelect = document.getElementById("gradeSelect");
 const weekSelect = document.getElementById("weekSelect");
 const metaDiv = document.getElementById("meta");
 const contentDiv = document.getElementById("content");
@@ -149,7 +149,7 @@ function updateUrl(grade, week, push = true) {
 async function loadLesson() {
   const grade = gradeSelect.value;
   const week = padWeek(weekSelect.value);
-  const url = `/content/grade${grade}/week${week}.md?v=15`;
+  const url = `/content/grade${grade}/week${week}.md?v=20`;
   contentDiv.innerHTML = "Loading lesson...";
   try {
     const res = await fetch(url);
@@ -778,12 +778,12 @@ downloadDocxBtn.addEventListener("click", () => {
 
 downloadKspBtn.addEventListener("click", () => {
   downloadKspBtn.disabled = true;
-  downloadKspBtn.textContent = "Preparing КСП...";
+  downloadKspBtn.textContent = "Preparing ???...";
   downloadKsp()
     .catch((err) => console.error(err))
     .finally(() => {
       downloadKspBtn.disabled = false;
-      downloadKspBtn.textContent = "Download КСП";
+      downloadKspBtn.textContent = "Download ???";
     });
 });
 
@@ -795,3 +795,8 @@ window.addEventListener("popstate", () => {
     loadLesson();
   }
 });
+
+
+
+
+

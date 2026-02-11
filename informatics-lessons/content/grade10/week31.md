@@ -10,85 +10,71 @@ day: ""
 topic: "Web Programming"
 duration: "45 minutes"
 ---
+
 # Grade 10 - Week 31: Web Programming
 ## Learning Objectives
-- Explain Web Programming in clear, age-appropriate language.
-- Identify the key parts or steps of Web Programming.
-- Apply Web Programming to a real-life or classroom example.
-- Demonstrate: Javascript Assignment Operator.
-- Demonstrate: Data Type.
+- Explain the core concepts of Web Programming using correct terminology.
+- Identify key components, roles, or stages related to Web Programming.
+- Analyze a real-world example where Web Programming is applied.
+- Compare two representations or approaches within Web Programming.
+- Apply Web Programming concepts to a short practical task or scenario.
 
 ## Assessment Criteria
-- Uses correct terminology when explaining Web Programming.
-- Completes the practice activity accurately.
-- Responds to oral questions with clear reasoning.
-- Shows understanding of: Javascript Assignment Operator, Data Type.
+- Uses technical vocabulary accurately in explanations.
+- Identifies correct components or stages of Web Programming.
+- Provides a valid real-world example and justification.
+- Completes the practice task with clear reasoning.
 
 ## Key Vocabulary
-- web: a key term related to Web Programming
-- programming: a key term related to Web Programming
-- javascript: a key term related to Web Programming
-- assignment: a key term related to Web Programming
-- operator: a key term related to Web Programming
-- type: a key term related to Web Programming
-- input: data entered into a system
+- concepts: key ideas and definitions
+- components: parts that make up a system
+- process: steps that lead to a result
+- input: data or signals provided to a system
 - output: results produced by a system
-- process: steps that transform input to output
-- system: connected parts working together
+- performance: speed, reliability, or efficiency
+- security: protection of data and systems
+- evaluation: checking correctness and quality
 
 ## Lesson Timeline
 - Introduction - 5 minutes
 - Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
+![Lesson visual](/content/images/grade10/week31.png)
+
 ## Introduction (5 minutes)
-- Introduce Web Programming and link it to everyday technology.
-- Warm-up questions:
-- - Where do we encounter this idea in daily life?
-- - How does this help computers work correctly?
-- Real-life examples:
-- - A classroom example connected to Web Programming.
-- - Link to: Javascript Assignment Operator, Data Type.
-- Teacher: Briefly model the key idea using a quick sketch or object.
-- Students: Share one example they know and explain why it fits.
+- Starter: Present a short real-world case related to Web Programming (news, product, or school system).
+- Ask guiding questions to activate prior knowledge.
+- Teacher: Define Web Programming and outline the lesson goals.
+- Students: Share what they already know or have used.
 
 ## Main Content (30 minutes)
-- Define Web Programming in clear terms.
-- Break down the key components or steps.
-- Show a short, concrete example.
-- Connect to prior knowledge from earlier lessons.
-- Focus point: Javascript Assignment Operator.
-- Focus point: Data Type.
-- Discuss a practical application or case study.
-- Teacher: Model the process step-by-step and check for understanding.
-- Students: Take brief notes and answer a quick concept check.
-
+- Explain the main concepts and components of Web Programming with a clear diagram.
+- Show a real-world example and map it to the concepts.
+- Discuss advantages, limitations, or common issues.
+- Teacher: Model a simple analysis or walkthrough.
+- Students: Take notes and answer quick concept checks.
 
 ## Practice Activity
-- Short response: Describe a scenario where Web Programming is important.
-- Matching: Pair terms with their definitions.
-- Teacher: Circulate, prompt with guiding questions, and correct misconceptions.
-- Students: Work in pairs and compare answers.
-- Apply: Javascript Assignment Operator.
-- Apply: Data Type.
+- Case task: Students analyze a short scenario and identify how Web Programming is used.
+- Small group: Build a mini summary (3-4 bullet points) of key ideas.
+- Teacher: Provide feedback and clarify misconceptions.
 
 ## Wrap-up (10 minutes)
-- Quick recap: Students summarize the key idea in one sentence.
-- Exit question: Name one example related to the topic.
-- Teacher: Highlight common mistakes and confirm next steps.
+- Students summarize the key idea in one sentence.
+- Exit ticket: Give one example or application of Web Programming.
+- Teacher: Highlight common mistakes and preview the next topic.
 
 ## Assessment
-- Observation during activity.
-- Oral Q&A: Students explain one part of Web Programming.
-- Quick written check: 3 short questions.
-- Mini rubric: 3 = accurate and complete, 2 = mostly correct, 1 = needs support
+- Observation during discussion and practice.
+- Short written check: 3-5 questions on key concepts.
+- Oral Q&A on real-world application.
 
 ## Homework
-- Write a short paragraph about Web Programming using at least 4 vocabulary terms.
+- Find a real-world case where Web Programming is used and write a 150-200 word summary.
+- Create a one-page study sheet with definitions, components, and one diagram of Web Programming.
 
 ## Teacher Reflection
-- Which part of Web Programming was easiest for students to understand?
-- Which activity best supported learning objectives?
-- What should be adjusted for next time?
-
-
+- Which concept was most challenging for students?
+- Which example worked best to explain Web Programming?
+- What should be improved for the next lesson?

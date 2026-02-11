@@ -10,86 +10,71 @@ day: ""
 topic: "Data Representation"
 duration: "45 minutes"
 ---
+
 # Grade 10 - Week 6: Data Representation
 ## Learning Objectives
-- Explain Data Representation in clear, age-appropriate language.
-- Identify the key parts or steps of Data Representation.
-- Apply Data Representation to a real-life or classroom example.
-- Demonstrate: Number Systems.
-- Demonstrate: Truth Table.
+- Explain the core concepts of Data Representation using correct terminology.
+- Identify key components, roles, or stages related to Data Representation.
+- Analyze a real-world example where Data Representation is applied.
+- Compare two representations or approaches within Data Representation.
+- Apply Data Representation concepts to a short practical task or scenario.
 
 ## Assessment Criteria
-- Uses correct terminology when explaining Data Representation.
-- Completes the practice activity accurately.
-- Responds to oral questions with clear reasoning.
-- Shows understanding of: Number Systems, Truth Table, Arithmetic Operations with Bina.
+- Uses technical vocabulary accurately in explanations.
+- Identifies correct components or stages of Data Representation.
+- Provides a valid real-world example and justification.
+- Completes the practice task with clear reasoning.
 
 ## Key Vocabulary
-- representation: a key term related to Data Representation
-- number: a key term related to Data Representation
-- systems: a key term related to Data Representation
-- truth: a key term related to Data Representation
-- table: a key term related to Data Representation
-- arithmetic: a key term related to Data Representation
-- input: data entered into a system
+- concepts: key ideas and definitions
+- components: parts that make up a system
+- process: steps that lead to a result
+- input: data or signals provided to a system
 - output: results produced by a system
-- process: steps that transform input to output
-- system: connected parts working together
+- performance: speed, reliability, or efficiency
+- security: protection of data and systems
+- evaluation: checking correctness and quality
 
 ## Lesson Timeline
 - Introduction - 5 minutes
 - Main Activity - 30 minutes
 - Wrap-up - 10 minutes
 
+![Lesson visual](/content/images/grade10/week06.png)
+
 ## Introduction (5 minutes)
-- Introduce Data Representation and link it to everyday technology.
-- Warm-up questions:
-- - Where do we encounter this idea in daily life?
-- - How does this help computers work correctly?
-- Real-life examples:
-- - A classroom example connected to Data Representation.
-- - Link to: Number Systems, Truth Table, Arithmetic Operations with Binary Numbers.
-- Teacher: Briefly model the key idea using a quick sketch or object.
-- Students: Share one example they know and explain why it fits.
+- Starter: Present a short real-world case related to Data Representation (news, product, or school system).
+- Ask guiding questions to activate prior knowledge.
+- Teacher: Define Data Representation and outline the lesson goals.
+- Students: Share what they already know or have used.
 
 ## Main Content (30 minutes)
-- Define Data Representation in clear terms.
-- Break down the key components or steps.
-- Show a short, concrete example.
-- Connect to prior knowledge from earlier lessons.
-- Focus point: Number Systems.
-- Focus point: Truth Table.
-- Focus point: Arithmetic Operations with Binary Numbers.
-- Discuss a practical application or case study.
-- Teacher: Model the process step-by-step and check for understanding.
-- Students: Take brief notes and answer a quick concept check.
-
+- Explain the main concepts and components of Data Representation with a clear diagram.
+- Show a real-world example and map it to the concepts.
+- Discuss advantages, limitations, or common issues.
+- Teacher: Model a simple analysis or walkthrough.
+- Students: Take notes and answer quick concept checks.
 
 ## Practice Activity
-- Short response: Describe a scenario where Data Representation is important.
-- Matching: Pair terms with their definitions.
-- Teacher: Circulate, prompt with guiding questions, and correct misconceptions.
-- Students: Work in pairs and compare answers.
-- Apply: Number Systems.
-- Apply: Truth Table.
+- Case task: Students analyze a short scenario and identify how Data Representation is used.
+- Small group: Build a mini summary (3-4 bullet points) of key ideas.
+- Teacher: Provide feedback and clarify misconceptions.
 
 ## Wrap-up (10 minutes)
-- Quick recap: Students summarize the key idea in one sentence.
-- Exit question: Name one example related to the topic.
-- Teacher: Highlight common mistakes and confirm next steps.
+- Students summarize the key idea in one sentence.
+- Exit ticket: Give one example or application of Data Representation.
+- Teacher: Highlight common mistakes and preview the next topic.
 
 ## Assessment
-- Observation during activity.
-- Oral Q&A: Students explain one part of Data Representation.
-- Quick written check: 3 short questions.
-- Mini rubric: 3 = accurate and complete, 2 = mostly correct, 1 = needs support
+- Observation during discussion and practice.
+- Short written check: 3-5 questions on key concepts.
+- Oral Q&A on real-world application.
 
 ## Homework
-- Write a short paragraph about Data Representation using at least 4 vocabulary terms.
+- Find a real-world case where Data Representation is used and write a 150-200 word summary.
+- Create a one-page study sheet with definitions, components, and one diagram of Data Representation.
 
 ## Teacher Reflection
-- Which part of Data Representation was easiest for students to understand?
-- Which activity best supported learning objectives?
-- What should be adjusted for next time?
-
-
+- Which concept was most challenging for students?
+- Which example worked best to explain Data Representation?
+- What should be improved for the next lesson?
