@@ -149,7 +149,7 @@ function updateUrl(grade, week, push = true) {
 async function loadLesson() {
   const grade = gradeSelect.value;
   const week = padWeek(weekSelect.value);
-  const url = `/content/grade${grade}/week${week}.md?v=20`;
+  const url = `/content/grade${grade}/week${week}.md?v=21`;
   contentDiv.innerHTML = "Loading lesson...";
   try {
     const res = await fetch(url);
@@ -795,6 +795,7 @@ window.addEventListener("popstate", () => {
     loadLesson();
   }
 });
+
 
 
 
