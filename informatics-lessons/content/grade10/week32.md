@@ -7,21 +7,21 @@ week: 32
 section: "10-A, 10-B, 10-C, 10-D"
 date: "10-A 05.05.2026 (Tuesday); 10-B 05.05.2026 (Tuesday); 10-C 07.05.2026 (Thursday); 10-D 07.05.2026 (Thursday)"
 day: ""
-topic: "Web Programming"
+topic: "Javascript Operators"
 duration: "45 minutes"
 ---
 
-# Grade 10 - Week 32: Web Programming
+# Grade 10 - Week 32: Javascript Operators
 ## Learning Objectives
-- Explain the core concepts of Web Programming using correct terminology.
-- Identify key components, roles, or stages related to Web Programming.
-- Analyze a real-world example where Web Programming is applied.
-- Compare two representations or approaches within Web Programming.
-- Apply Web Programming concepts to a short practical task or scenario.
+- Explain the core concepts of Javascript Operators using correct terminology.
+- Identify key components, roles, or stages related to Javascript Operators.
+- Analyze a real-world example where Javascript Operators is applied.
+- Compare two representations or approaches within Javascript Operators.
+- Apply Javascript Operators concepts to a short practical task or scenario.
 
 ## Assessment Criteria
 - Uses technical vocabulary accurately in explanations.
-- Identifies correct components or stages of Web Programming.
+- Identifies correct components or stages of Javascript Operators.
 - Provides a valid real-world example and justification.
 - Completes the practice task with clear reasoning.
 
@@ -43,26 +43,26 @@ duration: "45 minutes"
 ![Lesson visual](/content/images/grade10/week32.png)
 
 ## Introduction (5 minutes)
-- Starter: Present a short real-world case related to Web Programming (news, product, or school system).
+- Starter: Present a short real-world case related to Javascript Operators (news, product, or school system).
 - Ask guiding questions to activate prior knowledge.
-- Teacher: Define Web Programming and outline the lesson goals.
+- Teacher: Define Javascript Operators and outline the lesson goals.
 - Students: Share what they already know or have used.
 
 ## Main Content (30 minutes)
-- Explain the main concepts and components of Web Programming with a clear diagram.
+- Explain the main concepts and components of Javascript Operators with a clear diagram.
 - Show a real-world example and map it to the concepts.
 - Discuss advantages, limitations, or common issues.
 - Teacher: Model a simple analysis or walkthrough.
 - Students: Take notes and answer quick concept checks.
 
 ## Practice Activity
-- Case task: Students analyze a short scenario and identify how Web Programming is used.
+- Case task: Students analyze a short scenario and identify how Javascript Operators is used.
 - Small group: Build a mini summary (3-4 bullet points) of key ideas.
 - Teacher: Provide feedback and clarify misconceptions.
 
 ## Wrap-up (10 minutes)
 - Students summarize the key idea in one sentence.
-- Exit ticket: Give one example or application of Web Programming.
+- Exit ticket: Give one example or application of Javascript Operators.
 - Teacher: Highlight common mistakes and preview the next topic.
 
 ## Assessment
@@ -71,10 +71,10 @@ duration: "45 minutes"
 - Oral Q&A on real-world application.
 
 ## Homework
-- Find a real-world case where Web Programming is used and write a 150-200 word summary.
-- Create a one-page study sheet with definitions, components, and one diagram of Web Programming.
+- Find a real-world case where Javascript Operators is used and write a 150-200 word summary.
+- Create a one-page study sheet with definitions, components, and one diagram of Javascript Operators.
 
 ## Teacher Reflection
 - Which concept was most challenging for students?
-- Which example worked best to explain Web Programming?
+- Which example worked best to explain Javascript Operators?
 - What should be improved for the next lesson?

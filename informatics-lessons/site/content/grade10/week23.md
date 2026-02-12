@@ -7,21 +7,21 @@ week: 23
 section: "10-A, 10-B, 10-C, 10-D"
 date: "10-A 24.02.2026 (Tuesday); 10-B 24.02.2026 (Tuesday); 10-C 19.02.2026 (Thursday); 10-D 19.02.2026 (Thursday)"
 day: ""
-topic: "Software"
+topic: "Mini () and Max () Function, SQL Join Function"
 duration: "45 minutes"
 ---
 
-# Grade 10 - Week 23: Software
+# Grade 10 - Week 23: Mini () and Max () Function, SQL Join Function
 ## Learning Objectives
-- Explain the core concepts of Software using correct terminology.
-- Identify key components, roles, or stages related to Software.
-- Analyze a real-world example where Software is applied.
-- Compare two representations or approaches within Software.
-- Apply Software concepts to a short practical task or scenario.
+- Explain the core concepts of Mini () and Max () Function, SQL Join Function using correct terminology.
+- Identify key components, roles, or stages related to Mini () and Max () Function, SQL Join Function.
+- Analyze a real-world example where Mini () and Max () Function, SQL Join Function is applied.
+- Compare two representations or approaches within Mini () and Max () Function, SQL Join Function.
+- Apply Mini () and Max () Function, SQL Join Function concepts to a short practical task or scenario.
 
 ## Assessment Criteria
 - Uses technical vocabulary accurately in explanations.
-- Identifies correct components or stages of Software.
+- Identifies correct components or stages of Mini () and Max () Function, SQL Join Function.
 - Provides a valid real-world example and justification.
 - Completes the practice task with clear reasoning.
 
@@ -43,26 +43,26 @@ duration: "45 minutes"
 ![Lesson visual](/content/images/grade10/week23.png)
 
 ## Introduction (5 minutes)
-- Starter: Present a short real-world case related to Software (news, product, or school system).
+- Starter: Present a short real-world case related to Mini () and Max () Function, SQL Join Function (news, product, or school system).
 - Ask guiding questions to activate prior knowledge.
-- Teacher: Define Software and outline the lesson goals.
+- Teacher: Define Mini () and Max () Function, SQL Join Function and outline the lesson goals.
 - Students: Share what they already know or have used.
 
 ## Main Content (30 minutes)
-- Explain the main concepts and components of Software with a clear diagram.
+- Explain the main concepts and components of Mini () and Max () Function, SQL Join Function with a clear diagram.
 - Show a real-world example and map it to the concepts.
 - Discuss advantages, limitations, or common issues.
 - Teacher: Model a simple analysis or walkthrough.
 - Students: Take notes and answer quick concept checks.
 
 ## Practice Activity
-- Case task: Students analyze a short scenario and identify how Software is used.
+- Case task: Students analyze a short scenario and identify how Mini () and Max () Function, SQL Join Function is used.
 - Small group: Build a mini summary (3-4 bullet points) of key ideas.
 - Teacher: Provide feedback and clarify misconceptions.
 
 ## Wrap-up (10 minutes)
 - Students summarize the key idea in one sentence.
-- Exit ticket: Give one example or application of Software.
+- Exit ticket: Give one example or application of Mini () and Max () Function, SQL Join Function.
 - Teacher: Highlight common mistakes and preview the next topic.
 
 ## Assessment
@@ -71,10 +71,10 @@ duration: "45 minutes"
 - Oral Q&A on real-world application.
 
 ## Homework
-- Find a real-world case where Software is used and write a 150-200 word summary.
-- Create a one-page study sheet with definitions, components, and one diagram of Software.
+- Find a real-world case where Mini () and Max () Function, SQL Join Function is used and write a 150-200 word summary.
+- Create a one-page study sheet with definitions, components, and one diagram of Mini () and Max () Function, SQL Join Function.
 
 ## Teacher Reflection
 - Which concept was most challenging for students?
-- Which example worked best to explain Software?
+- Which example worked best to explain Mini () and Max () Function, SQL Join Function?
 - What should be improved for the next lesson?

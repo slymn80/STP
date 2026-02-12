@@ -7,21 +7,21 @@ week: 24
 section: "10-A, 10-B, 10-C, 10-D"
 date: "10-A 03.03.2026 (Tuesday); 10-B 03.03.2026 (Tuesday); 10-C 26.02.2026 (Thursday); 10-D 26.02.2026 (Thursday)"
 day: ""
-topic: "Software, Quiz"
+topic: "Group By Function, Select into Statement"
 duration: "45 minutes"
 ---
 
-# Grade 10 - Week 24: Software, Quiz
+# Grade 10 - Week 24: Group By Function, Select into Statement
 ## Learning Objectives
-- Explain the core concepts of Software, Quiz using correct terminology.
-- Identify key components, roles, or stages related to Software, Quiz.
-- Analyze a real-world example where Software, Quiz is applied.
-- Compare two representations or approaches within Software, Quiz.
-- Apply Software, Quiz concepts to a short practical task or scenario.
+- Explain the core concepts of Group By Function, Select into Statement using correct terminology.
+- Identify key components, roles, or stages related to Group By Function, Select into Statement.
+- Analyze a real-world example where Group By Function, Select into Statement is applied.
+- Compare two representations or approaches within Group By Function, Select into Statement.
+- Apply Group By Function, Select into Statement concepts to a short practical task or scenario.
 
 ## Assessment Criteria
 - Uses technical vocabulary accurately in explanations.
-- Identifies correct components or stages of Software, Quiz.
+- Identifies correct components or stages of Group By Function, Select into Statement.
 - Provides a valid real-world example and justification.
 - Completes the practice task with clear reasoning.
 
@@ -43,26 +43,26 @@ duration: "45 minutes"
 ![Lesson visual](/content/images/grade10/week24.png)
 
 ## Introduction (5 minutes)
-- Starter: Present a short real-world case related to Software, Quiz (news, product, or school system).
+- Starter: Present a short real-world case related to Group By Function, Select into Statement (news, product, or school system).
 - Ask guiding questions to activate prior knowledge.
-- Teacher: Define Software, Quiz and outline the lesson goals.
+- Teacher: Define Group By Function, Select into Statement and outline the lesson goals.
 - Students: Share what they already know or have used.
 
 ## Main Content (30 minutes)
-- Explain the main concepts and components of Software, Quiz with a clear diagram.
+- Explain the main concepts and components of Group By Function, Select into Statement with a clear diagram.
 - Show a real-world example and map it to the concepts.
 - Discuss advantages, limitations, or common issues.
 - Teacher: Model a simple analysis or walkthrough.
 - Students: Take notes and answer quick concept checks.
 
 ## Practice Activity
-- Case task: Students analyze a short scenario and identify how Software, Quiz is used.
+- Case task: Students analyze a short scenario and identify how Group By Function, Select into Statement is used.
 - Small group: Build a mini summary (3-4 bullet points) of key ideas.
 - Teacher: Provide feedback and clarify misconceptions.
 
 ## Wrap-up (10 minutes)
 - Students summarize the key idea in one sentence.
-- Exit ticket: Give one example or application of Software, Quiz.
+- Exit ticket: Give one example or application of Group By Function, Select into Statement.
 - Teacher: Highlight common mistakes and preview the next topic.
 
 ## Assessment
@@ -71,12 +71,12 @@ duration: "45 minutes"
 - Oral Q&A on real-world application.
 
 ## Homework
-- Find a real-world case where Software, Quiz is used and write a 150-200 word summary.
-- Create a one-page study sheet with definitions, components, and one diagram of Software, Quiz.
+- Find a real-world case where Group By Function, Select into Statement is used and write a 150-200 word summary.
+- Create a one-page study sheet with definitions, components, and one diagram of Group By Function, Select into Statement.
 
 ## Teacher Reflection
 - Which concept was most challenging for students?
-- Which example worked best to explain Software, Quiz?
+- Which example worked best to explain Group By Function, Select into Statement?
 - What should be improved for the next lesson?
 
 ## Cumulative Exam (Weeks 17-24)
@@ -154,4 +154,3 @@ duration: "45 minutes"
 <li>B</li>
 </ol>
 </details>
-

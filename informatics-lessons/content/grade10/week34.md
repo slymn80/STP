@@ -7,21 +7,21 @@ week: 34
 section: "10-A, 10-B, 10-C, 10-D"
 date: "10-A 19.05.2026 (Tuesday); 10-B 19.05.2026 (Tuesday); 10-C 21.05.2026 (Thursday); 10-D 21.05.2026 (Thursday)"
 day: ""
-topic: "Web Programming, Quiz"
+topic: "Javascript Loop"
 duration: "45 minutes"
 ---
 
-# Grade 10 - Week 34: Web Programming, Quiz
+# Grade 10 - Week 34: Javascript Loop
 ## Learning Objectives
-- Explain the core concepts of Web Programming, Quiz using correct terminology.
-- Identify key components, roles, or stages related to Web Programming, Quiz.
-- Analyze a real-world example where Web Programming, Quiz is applied.
-- Compare two representations or approaches within Web Programming, Quiz.
-- Apply Web Programming, Quiz concepts to a short practical task or scenario.
+- Explain the core concepts of Javascript Loop using correct terminology.
+- Identify key components, roles, or stages related to Javascript Loop.
+- Analyze a real-world example where Javascript Loop is applied.
+- Compare two representations or approaches within Javascript Loop.
+- Apply Javascript Loop concepts to a short practical task or scenario.
 
 ## Assessment Criteria
 - Uses technical vocabulary accurately in explanations.
-- Identifies correct components or stages of Web Programming, Quiz.
+- Identifies correct components or stages of Javascript Loop.
 - Provides a valid real-world example and justification.
 - Completes the practice task with clear reasoning.
 
@@ -43,26 +43,26 @@ duration: "45 minutes"
 ![Lesson visual](/content/images/grade10/week34.png)
 
 ## Introduction (5 minutes)
-- Starter: Present a short real-world case related to Web Programming, Quiz (news, product, or school system).
+- Starter: Present a short real-world case related to Javascript Loop (news, product, or school system).
 - Ask guiding questions to activate prior knowledge.
-- Teacher: Define Web Programming, Quiz and outline the lesson goals.
+- Teacher: Define Javascript Loop and outline the lesson goals.
 - Students: Share what they already know or have used.
 
 ## Main Content (30 minutes)
-- Explain the main concepts and components of Web Programming, Quiz with a clear diagram.
+- Explain the main concepts and components of Javascript Loop with a clear diagram.
 - Show a real-world example and map it to the concepts.
 - Discuss advantages, limitations, or common issues.
 - Teacher: Model a simple analysis or walkthrough.
 - Students: Take notes and answer quick concept checks.
 
 ## Practice Activity
-- Case task: Students analyze a short scenario and identify how Web Programming, Quiz is used.
+- Case task: Students analyze a short scenario and identify how Javascript Loop is used.
 - Small group: Build a mini summary (3-4 bullet points) of key ideas.
 - Teacher: Provide feedback and clarify misconceptions.
 
 ## Wrap-up (10 minutes)
 - Students summarize the key idea in one sentence.
-- Exit ticket: Give one example or application of Web Programming, Quiz.
+- Exit ticket: Give one example or application of Javascript Loop.
 - Teacher: Highlight common mistakes and preview the next topic.
 
 ## Assessment
@@ -71,12 +71,12 @@ duration: "45 minutes"
 - Oral Q&A on real-world application.
 
 ## Homework
-- Find a real-world case where Web Programming, Quiz is used and write a 150-200 word summary.
-- Create a one-page study sheet with definitions, components, and one diagram of Web Programming, Quiz.
+- Find a real-world case where Javascript Loop is used and write a 150-200 word summary.
+- Create a one-page study sheet with definitions, components, and one diagram of Javascript Loop.
 
 ## Teacher Reflection
 - Which concept was most challenging for students?
-- Which example worked best to explain Web Programming, Quiz?
+- Which example worked best to explain Javascript Loop?
 - What should be improved for the next lesson?
 
 ## Cumulative Exam (Weeks 27-34)
@@ -154,4 +154,3 @@ duration: "45 minutes"
 <li>B</li>
 </ol>
 </details>
-

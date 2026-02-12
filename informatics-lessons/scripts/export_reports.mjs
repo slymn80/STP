@@ -33,7 +33,11 @@ async function main() {
   const page = await context.newPage();
   page.setDefaultTimeout(120000);
 
-  for (const grade of [5, 10]) {
+  const gradeEnv = process.env.GRADES || "";
+  const grades = gradeEnv
+    ? gradeEnv.split(",").map((g) => Number(g.trim())).filter(Boolean)
+    : [5, 10];
+  for (const grade of grades) {
     const pdfDir = path.join(pdfRoot, `grade${grade}`);
     const docxDir = path.join(docxRoot, `grade${grade}`);
     ensureDir(pdfDir);

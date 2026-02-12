@@ -7,21 +7,21 @@ week: 26
 section: "10-A, 10-B, 10-C, 10-D"
 date: "10-A 17.03.2026 (Tuesday); 10-B 17.03.2026 (Tuesday); 10-C 12.03.2026 (Thursday); 10-D 12.03.2026 (Thursday)"
 day: ""
-topic: "Software"
+topic: "SQL Constraints"
 duration: "45 minutes"
 ---
 
-# Grade 10 - Week 26: Software
+# Grade 10 - Week 26: SQL Constraints
 ## Learning Objectives
-- Explain the core concepts of Software using correct terminology.
-- Identify key components, roles, or stages related to Software.
-- Analyze a real-world example where Software is applied.
-- Compare two representations or approaches within Software.
-- Apply Software concepts to a short practical task or scenario.
+- Explain the core concepts of SQL Constraints using correct terminology.
+- Identify key components, roles, or stages related to SQL Constraints.
+- Analyze a real-world example where SQL Constraints is applied.
+- Compare two representations or approaches within SQL Constraints.
+- Apply SQL Constraints concepts to a short practical task or scenario.
 
 ## Assessment Criteria
 - Uses technical vocabulary accurately in explanations.
-- Identifies correct components or stages of Software.
+- Identifies correct components or stages of SQL Constraints.
 - Provides a valid real-world example and justification.
 - Completes the practice task with clear reasoning.
 
@@ -43,26 +43,26 @@ duration: "45 minutes"
 ![Lesson visual](/content/images/grade10/week26.png)
 
 ## Introduction (5 minutes)
-- Starter: Present a short real-world case related to Software (news, product, or school system).
+- Starter: Present a short real-world case related to SQL Constraints (news, product, or school system).
 - Ask guiding questions to activate prior knowledge.
-- Teacher: Define Software and outline the lesson goals.
+- Teacher: Define SQL Constraints and outline the lesson goals.
 - Students: Share what they already know or have used.
 
 ## Main Content (30 minutes)
-- Explain the main concepts and components of Software with a clear diagram.
+- Explain the main concepts and components of SQL Constraints with a clear diagram.
 - Show a real-world example and map it to the concepts.
 - Discuss advantages, limitations, or common issues.
 - Teacher: Model a simple analysis or walkthrough.
 - Students: Take notes and answer quick concept checks.
 
 ## Practice Activity
-- Case task: Students analyze a short scenario and identify how Software is used.
+- Case task: Students analyze a short scenario and identify how SQL Constraints is used.
 - Small group: Build a mini summary (3-4 bullet points) of key ideas.
 - Teacher: Provide feedback and clarify misconceptions.
 
 ## Wrap-up (10 minutes)
 - Students summarize the key idea in one sentence.
-- Exit ticket: Give one example or application of Software.
+- Exit ticket: Give one example or application of SQL Constraints.
 - Teacher: Highlight common mistakes and preview the next topic.
 
 ## Assessment
@@ -71,10 +71,10 @@ duration: "45 minutes"
 - Oral Q&A on real-world application.
 
 ## Homework
-- Find a real-world case where Software is used and write a 150-200 word summary.
-- Create a one-page study sheet with definitions, components, and one diagram of Software.
+- Find a real-world case where SQL Constraints is used and write a 150-200 word summary.
+- Create a one-page study sheet with definitions, components, and one diagram of SQL Constraints.
 
 ## Teacher Reflection
 - Which concept was most challenging for students?
-- Which example worked best to explain Software?
+- Which example worked best to explain SQL Constraints?
 - What should be improved for the next lesson?

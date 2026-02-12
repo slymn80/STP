@@ -7,21 +7,21 @@ week: 27
 section: "10-A, 10-B, 10-C, 10-D"
 date: "10-A 31.03.2026 (Tuesday); 10-B 31.03.2026 (Tuesday); 10-C 02.04.2026 (Thursday); 10-D 02.04.2026 (Thursday)"
 day: ""
-topic: "Web Programming"
+topic: "Into to Web Programming, Web Site Structure, Styling a Website (Part 1), Styling a Website (Part 2)"
 duration: "45 minutes"
 ---
 
-# Grade 10 - Week 27: Web Programming
+# Grade 10 - Week 27: Into to Web Programming, Web Site Structure, Styling a Website (Part 1), Styling a Website (Part 2)
 ## Learning Objectives
-- Explain the core concepts of Web Programming using correct terminology.
-- Identify key components, roles, or stages related to Web Programming.
-- Analyze a real-world example where Web Programming is applied.
-- Compare two representations or approaches within Web Programming.
-- Apply Web Programming concepts to a short practical task or scenario.
+- Explain the core concepts of Into to Web Programming, Web Site Structure, Styling a Website (Part 1), Styling a Website (Part 2) using correct terminology.
+- Identify key components, roles, or stages related to Into to Web Programming, Web Site Structure, Styling a Website (Part 1), Styling a Website (Part 2).
+- Analyze a real-world example where Into to Web Programming, Web Site Structure, Styling a Website (Part 1), Styling a Website (Part 2) is applied.
+- Compare two representations or approaches within Into to Web Programming, Web Site Structure, Styling a Website (Part 1), Styling a Website (Part 2).
+- Apply Into to Web Programming, Web Site Structure, Styling a Website (Part 1), Styling a Website (Part 2) concepts to a short practical task or scenario.
 
 ## Assessment Criteria
 - Uses technical vocabulary accurately in explanations.
-- Identifies correct components or stages of Web Programming.
+- Identifies correct components or stages of Into to Web Programming, Web Site Structure, Styling a Website (Part 1), Styling a Website (Part 2).
 - Provides a valid real-world example and justification.
 - Completes the practice task with clear reasoning.
 
@@ -43,26 +43,26 @@ duration: "45 minutes"
 ![Lesson visual](/content/images/grade10/week27.png)
 
 ## Introduction (5 minutes)
-- Starter: Present a short real-world case related to Web Programming (news, product, or school system).
+- Starter: Present a short real-world case related to Into to Web Programming, Web Site Structure, Styling a Website (Part 1), Styling a Website (Part 2) (news, product, or school system).
 - Ask guiding questions to activate prior knowledge.
-- Teacher: Define Web Programming and outline the lesson goals.
+- Teacher: Define Into to Web Programming, Web Site Structure, Styling a Website (Part 1), Styling a Website (Part 2) and outline the lesson goals.
 - Students: Share what they already know or have used.
 
 ## Main Content (30 minutes)
-- Explain the main concepts and components of Web Programming with a clear diagram.
+- Explain the main concepts and components of Into to Web Programming, Web Site Structure, Styling a Website (Part 1), Styling a Website (Part 2) with a clear diagram.
 - Show a real-world example and map it to the concepts.
 - Discuss advantages, limitations, or common issues.
 - Teacher: Model a simple analysis or walkthrough.
 - Students: Take notes and answer quick concept checks.
 
 ## Practice Activity
-- Case task: Students analyze a short scenario and identify how Web Programming is used.
+- Case task: Students analyze a short scenario and identify how Into to Web Programming, Web Site Structure, Styling a Website (Part 1), Styling a Website (Part 2) is used.
 - Small group: Build a mini summary (3-4 bullet points) of key ideas.
 - Teacher: Provide feedback and clarify misconceptions.
 
 ## Wrap-up (10 minutes)
 - Students summarize the key idea in one sentence.
-- Exit ticket: Give one example or application of Web Programming.
+- Exit ticket: Give one example or application of Into to Web Programming, Web Site Structure, Styling a Website (Part 1), Styling a Website (Part 2).
 - Teacher: Highlight common mistakes and preview the next topic.
 
 ## Assessment
@@ -71,10 +71,10 @@ duration: "45 minutes"
 - Oral Q&A on real-world application.
 
 ## Homework
-- Find a real-world case where Web Programming is used and write a 150-200 word summary.
-- Create a one-page study sheet with definitions, components, and one diagram of Web Programming.
+- Find a real-world case where Into to Web Programming, Web Site Structure, Styling a Website (Part 1), Styling a Website (Part 2) is used and write a 150-200 word summary.
+- Create a one-page study sheet with definitions, components, and one diagram of Into to Web Programming, Web Site Structure, Styling a Website (Part 1), Styling a Website (Part 2).
 
 ## Teacher Reflection
 - Which concept was most challenging for students?
-- Which example worked best to explain Web Programming?
+- Which example worked best to explain Into to Web Programming, Web Site Structure, Styling a Website (Part 1), Styling a Website (Part 2)?
 - What should be improved for the next lesson?

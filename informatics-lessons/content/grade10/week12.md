@@ -7,21 +7,21 @@ week: 12
 section: "10-A, 10-B, 10-C, 10-D"
 date: "10-A 25.11.2025 (Tuesday); 10-B 25.11.2025 (Tuesday); 10-C 27.11.2025 (Thursday); 10-D 27.11.2025 (Thursday)"
 day: ""
-topic: "Programming"
+topic: "Comparing Algorithms, Graph Algorithms"
 duration: "45 minutes"
 ---
 
-# Grade 10 - Week 12: Programming
+# Grade 10 - Week 12: Comparing Algorithms, Graph Algorithms
 ## Learning Objectives
-- Explain the core concepts of Programming using correct terminology.
-- Identify key components, roles, or stages related to Programming.
-- Analyze a real-world example where Programming is applied.
-- Compare two representations or approaches within Programming.
-- Apply Programming concepts to a short practical task or scenario.
+- Explain the core concepts of Comparing Algorithms, Graph Algorithms using correct terminology.
+- Identify key components, roles, or stages related to Comparing Algorithms, Graph Algorithms.
+- Analyze a real-world example where Comparing Algorithms, Graph Algorithms is applied.
+- Compare two representations or approaches within Comparing Algorithms, Graph Algorithms.
+- Apply Comparing Algorithms, Graph Algorithms concepts to a short practical task or scenario.
 
 ## Assessment Criteria
 - Uses technical vocabulary accurately in explanations.
-- Identifies correct components or stages of Programming.
+- Identifies correct components or stages of Comparing Algorithms, Graph Algorithms.
 - Provides a valid real-world example and justification.
 - Completes the practice task with clear reasoning.
 
@@ -43,26 +43,26 @@ duration: "45 minutes"
 ![Lesson visual](/content/images/grade10/week12.png)
 
 ## Introduction (5 minutes)
-- Starter: Present a short real-world case related to Programming (news, product, or school system).
+- Starter: Present a short real-world case related to Comparing Algorithms, Graph Algorithms (news, product, or school system).
 - Ask guiding questions to activate prior knowledge.
-- Teacher: Define Programming and outline the lesson goals.
+- Teacher: Define Comparing Algorithms, Graph Algorithms and outline the lesson goals.
 - Students: Share what they already know or have used.
 
 ## Main Content (30 minutes)
-- Explain the main concepts and components of Programming with a clear diagram.
+- Explain the main concepts and components of Comparing Algorithms, Graph Algorithms with a clear diagram.
 - Show a real-world example and map it to the concepts.
 - Discuss advantages, limitations, or common issues.
 - Teacher: Model a simple analysis or walkthrough.
 - Students: Take notes and answer quick concept checks.
 
 ## Practice Activity
-- Case task: Students analyze a short scenario and identify how Programming is used.
+- Case task: Students analyze a short scenario and identify how Comparing Algorithms, Graph Algorithms is used.
 - Small group: Build a mini summary (3-4 bullet points) of key ideas.
 - Teacher: Provide feedback and clarify misconceptions.
 
 ## Wrap-up (10 minutes)
 - Students summarize the key idea in one sentence.
-- Exit ticket: Give one example or application of Programming.
+- Exit ticket: Give one example or application of Comparing Algorithms, Graph Algorithms.
 - Teacher: Highlight common mistakes and preview the next topic.
 
 ## Assessment
@@ -71,10 +71,10 @@ duration: "45 minutes"
 - Oral Q&A on real-world application.
 
 ## Homework
-- Find a real-world case where Programming is used and write a 150-200 word summary.
-- Create a one-page study sheet with definitions, components, and one diagram of Programming.
+- Find a real-world case where Comparing Algorithms, Graph Algorithms is used and write a 150-200 word summary.
+- Create a one-page study sheet with definitions, components, and one diagram of Comparing Algorithms, Graph Algorithms.
 
 ## Teacher Reflection
 - Which concept was most challenging for students?
-- Which example worked best to explain Programming?
+- Which example worked best to explain Comparing Algorithms, Graph Algorithms?
 - What should be improved for the next lesson?
